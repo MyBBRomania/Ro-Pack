@@ -64,7 +64,9 @@ $l['close_threads'] = "&#206;nchide subiecte";
 $l['open_threads'] = "Deschide subiecte";
 $l['stick_threads'] = "Lipe&#351;te subiecte";
 $l['unstick_threads'] = "Dezlipe&#351;te subiecte";
-$l['delete_threads'] = "&#350;terge subiecte";
+$l['soft_delete_threads'] = "&#350;terge subiecte temporar";
+$l['restore_threads'] = "Restaureaza subiecte";
+$l['delete_threads'] = "&#350;terge subiecte permanent";
 $l['move_threads'] = "Mut&#259; subiecte";
 $l['approve_threads'] = "Aprob&#259; subiecte";
 $l['unapprove_threads'] = "Dezaprob&#259; subiecte";
@@ -73,6 +75,7 @@ $l['inline_restore_posts'] = "Recupereaz&#259; mesaje";
 $l['inline_delete_posts'] = "&#350;terge mesaje";
 $l['inline_merge_posts'] = "Une&#351;te mesaje";
 $l['inline_split_posts'] = "&#206;mparte mesaje";
+$l['inline_move_posts'] = "Mut&#259; mesaje";
 $l['inline_approve_posts'] = "Aprob&#259; mesaje";
 $l['inline_unapprove_posts'] = "Dezaprob&#259; mesaje";
 $l['inline_post_moderation'] = "Moderare mesaje &#238;n linie:";
@@ -94,10 +97,10 @@ $l['search_user'] = "Caută un utilizator";
 
 $l['results'] = "rezultate";
 $l['mod_options'] = "Op&#355;iuni moderator";
-$l['find_all'] = "Caut&#259; toate";
-$l['find_only_approved'] = "Caut&#259; numai aprobate";
-$l['find_only_unapproved'] = "Caut&#259; numai respinse";
-$l['find_only_softdeleted'] = "Caut&#259; numai &#351;terse temporar";
+$l['display_all'] = "Afi&#351;eaz&#259; toate";
+$l['display_only_approved'] = "Afi&#351;eaz&#259; numai aprobate";
+$l['display_only_unapproved'] = "Afi&#351;eaz&#259; numai neaprobate";
+$l['display_only_softdeleted'] = "Afi&#351;eaz&#259; numai &#351;terse temporar";
 
 $l['redirect_searchresults'] = "V&#259; mul&#355;umim, c&#259;utarea a avut loc, ve&#355;i fi redirec&#355;ionat c&#259;tre rezultate.";
 

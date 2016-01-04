@@ -90,6 +90,7 @@ $l['delete_q'] = "&#350;terge?";
 $l['delete_1'] = "Pentru a &#351;terge acest eveniment, bifeaz&#259; c&#259;su&#355;a din st&#226;nga apoi apas&#259; butonul din dreapta.";
 $l['delete_2'] = "<b>Not&#259;:</b> Nu se poate reveni asupra acestei proceduri.";
 $l['delete_now'] = "&#350;terge acum";
+$l['delete_no_checkbox'] = "Evenimentul nu a fost &#351;ters deoarece nu a&#355;i bifat c&#259;su&#355;a \"&#350;terge\".";
 $l['jump_to_calendar'] = "Du-te la calendar:";
 $l['select_calendar'] = "Calendar:";
 $l['type_single'] = "Eveniment zilnic unic";

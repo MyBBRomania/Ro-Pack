@@ -45,6 +45,7 @@ $l['redirect_unvoted'] = "Votul vostru din acest suboect a fost &#351;ters.<br /
 $l['redirect_polldeleted'] = "V&#259; mul&#355;umim, sondajul a fost &#351;ters din subiect.<br />Ve&#355;i fi direc&#355;ionat c&#259;tre subiect.";
 
 $l['error_polloptiontoolong'] = "Una sau mai multe op&#355;iuni ale sondajului sunt mai lungi dec&#226;t lungimea acceptat&#259;. V&#259; rug&#259;m s&#259; le scurta&#355;i.";
+$l['error_polloptionsequence'] = "Una sau mai multe op&#355;iuni ale sondajului con&#355;in o secven&#355;&#259; care nu poate fi folosit&#259;: <strong>||~|~||</strong>. V&#259; rug&#259;m s&#259; o &#351;terge&#355;i.";
 $l['error_noquestionoptions'] = "Nu a&#355;i introdus o &#238;ntrebare pentru sondaj sau nu ave&#355;i destule op&#355;iuni. Num&#259;rul minim de op&#355;iuni este 2.<br/>V&#259; rug&#259;m s&#259; corecta&#355;i.";
 $l['error_pollalready'] = "Subiectul are deja un sondaj!";
 $l['error_nopolloptions'] = "Op&#355;iunea este invalid&#259; sau nu exist&#259;.";

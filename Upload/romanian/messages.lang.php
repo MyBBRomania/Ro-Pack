@@ -90,6 +90,8 @@ $l['emailsubject_randompassword'] = "Parola pentru {1}";
 $l['emailsubject_activateaccount'] = "Activare cont la {1}";
 $l['emailsubject_forumsubscription'] = "Subiect nou in {1}";
 $l['emailsubject_reportpost'] = "Mesaj raportat la {1}";
+$l['emailsubject_reportprofile'] = "Utilizator raportat la {1}";
+$l['emailsubject_reportreputation'] = "Reputa&#355;ie raportat&#259; la {1}";
 $l['emailsubject_reachedpmquota'] = "Numa;rul maxim de mesaje private atins la {1}";
 $l['emailsubject_changeemail'] = "Schimbare e-mail la {1}";
 $l['emailsubject_newpm'] = "Mesaj privat nou la {1}";
@@ -147,7 +149,6 @@ Cod de activare: {5}
 Va multumim,
 Echipa {2}";
 
-
 $l['email_reportpost'] = "{1} din {2} a raportat acest mesaj:
 
 {3}
@@ -159,6 +160,30 @@ Motivul pentru care mesajul a fost raportat este:
 Acest mesaj a fost trimis catre toti moderatorii, administratorii si super moderatorii acestui forum.
 
 Va rugam sa verificati acest mesaj cat mai repede cu putinta.";
+
+$l['email_reportprofile'] = "{1} din {2} a raportat acest utilizator:
+
+{3}
+{4}/{5}
+
+Motivul pentru care utilizatorul a fost raportat este:
+{6}
+
+Acest mesaj a fost trimis catre toti moderatorii, administratorii si super moderatorii acestui forum.
+
+Va rugam sa verificati acest utilizator cat mai repede cu putinta.";
+
+$l['email_reportreputation'] = "{1} din {2} a raportat aceasta reputatie:
+
+{3}
+{4}/{5}
+
+Motivul pentru care utilizatorul a fost raportat este:
+{6}
+
+Acest mesaj a fost trimis catre toti moderatorii, administratorii si super moderatorii acestui forum.
+
+Va rugam sa verificati aceasta reputatie cat mai repede cu putinta.";
 
 $l['email_passwordreset'] = "{1},
 
