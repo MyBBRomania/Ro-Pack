@@ -22,3 +22,8 @@ $l['use_codemirror_desc'] = "Aceast&#259; preferin&#539;&#259; v&#259; permite s
 
 $l['success_preferences_updated'] = "Preferin&#539;a a fost actualizat&#259; cu succes.";
 
+$l['use_2fa_desc'] = "Autentificarea cu 2 pa&#351;i este o metod&#259; de securizare a contului vostru de administrator. Dup&#259; activare, ve&#355;i vedea un cod QR mai jos care trebuie scanat cu o aplica&#355;ie <a href=\"http://docs.mybb.com/1.8/administration/security/2fa/\" target=\"_blank\">precum Google Authenticator sau Authy</a>. Aceste aplica&#355;ii vor genera un cod care va trebui introdus la fiecare logare &#238;n ACP.";
+$l['my2fa_qr'] = "Codul autentific&#259;rii cu 2 pa&#351;i";
+$l['recovery_codes_desc'] = "Vede&#355;i <a href=\"index.php?module=home-preferences&amp;action=recovery_codes\">codurile de recuperare</a>.";
+$l['recovery_codes'] = "Coduri de recuperare";
+$l['recovery_codes_warning'] = "<b>Not&#259;:</b> codurile vor fi regenerate la fiecare vizit&#259; a paginii &#351;i pot fi folosite doar o dat&#259;.";

@@ -162,6 +162,9 @@ $l['admin_log_forum_moderation_queue_threads'] = "A moderat subiectele neaprobat
 $l['admin_log_forum_moderation_queue_posts'] = "A moderat r&#259;spunsurile neaprobate";
 $l['admin_log_forum_moderation_queue_attachments'] = "A moderat fi&#351;ierele ata&#351;ate neaprobate";
 
+$l['admin_log_home_preferences_enabled'] = "Autentificarea cu 2 pa&#351;i activat&#259;";
+$l['admin_log_home_preferences_disabled'] = "Autentificarea cu 2 pa&#351;i dezactivat&#259;";
+
 $l['admin_log_style_templates_delete_set'] = "A un &#351;ters set de &#351;abloane #{1} ({2})";
 $l['admin_log_style_templates_delete_template'] = "A &#351;ters &#351;ablonul #{1} ({2}) din setul #{3} ({4})";
 $l['admin_log_style_templates_delete_template_global'] = "A &#351;ters &#351;ablonul #{1} ({2}) din setul de &#351;abloane globale";
@@ -289,3 +292,5 @@ $l['admin_log_user_users_inline_lift'] = "A ridicat suspendarea pentru {1} utili
 $l['admin_log_user_mass_mail_delete'] = "A &#351;ters un buletin de informa&#355;ii #{1} ({2})"; 
  
 $l['admin_log_admin_locked_out'] = '&#206;ncercare de autentificare drept Administrator pentru utilizatorul #{1} ({2}) blocat&#259;.';
+
+

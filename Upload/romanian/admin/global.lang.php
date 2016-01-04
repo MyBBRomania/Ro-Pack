@@ -358,3 +358,8 @@ $l['comma'] = ", ";
 // then use this to define how much larger you want the gap to be (in px)
 // $l['login_field_width'] = "0";
 
+$l['my2fa'] = "Autentificare cu 2 pa&#351;i";
+$l['my2fa_failed'] = "Codul a fost incorect. Acum sunte&#355;i delogat";
+$l['my2fa_code'] = "V&#259; rug&#259;m s&#259; introduce&#355;i codul de autentificare";
+$l['my2fa_label'] = "Codul de autentificare:";
+$l['my2fa_no_codes'] = "Not&#259;: v-a&#355;i folosit toate codurile de recuperare. V&#259; rug&#259;m s&#259; vizita&#355;i <a href=\"index.php?module=home-preferences&amp;action=recovery_codes\">pagina cu codurile de recuperare</a> pentru a genera un nou set.";

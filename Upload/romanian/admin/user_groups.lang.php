@@ -146,6 +146,7 @@ $l['max_recipients'] = "Limit&#259; destinatari per mesaj expediat:";
 $l['max_recipients_desc'] = "Num&#259;rul maxim de destinatari pe care un utilizator &#238;l poate stabili unui mesaj. L&#259;sat liber, utilizatorii vor putea trimite mesaje private simultan unui num&#259;r nelimitat de destinatari.";
 $l['show_reputations'] = "Arat&#259; fi&#351;a de reputa&#355;ie pentru utilizatorii acestui grup?";
 $l['can_give_reputation'] = "Pot contribui la reputa&#355;ia altor utilizatori?";
+$l['can_delete_own_reputation'] = "Pot &#351;terge propriile puncte de reputa&#355;ii acordate?";
 $l['points_to_award_take'] = "Puncte de acordat/sc&#259;zut:";
 $l['points_to_award_take_desc'] = "Aici trebuie s&#259; introduci num&#259;rul de puncte acordat sau sc&#259;zut la fiecare evaluare a reputa&#355;iei de c&#259;tre un utilizator al acestui grup.";
 $l['max_reputations_daily'] = "Limit&#259; maxim&#259; evalu&#259;ri reputa&#355;ie zilnic&#259;:";

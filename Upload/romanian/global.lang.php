@@ -288,7 +288,6 @@ $l['postbit_button_delete_pm'] = '&#350;terge';
 $l['postbit_button_purgespammer'] = "Elimina&#355;i Spammer";
 
 $l['forumjump'] = "S&#259;ritura forum:";
-$l['forumjump_select'] = "V&#259; rug&#259;m selecta&#355;i unul:";
 $l['forumjump_pms'] = "Mesaje private";
 $l['forumjump_usercp'] = "Panou Control Utilizator";
 $l['forumjump_wol'] = "Cine este Online";
@@ -414,9 +413,16 @@ $l['select_language'] = "Selectare rapid&#259; a limbii";
 $l['select_theme'] = "Selectare rapid&#259; a temei";
 
 $l['invalid_post_code'] = "Codul de autorizare nu se potrive&#351;te. Accesa&#355;i aceast&#259; func&#355;ie corect? V&#259; rug&#259;m s&#259; merge&#355;i &#238;napoi &#351;i s&#259; &#238;ncerca&#355;i din nou.";
-$l['invalid_captcha'] = "Te rug&#259;m s&#259; completezi c&#226;mpul cu codul imaginii captcha pentru a continua. Te rug&#259;m s&#259; introduci codul a&#351;a cum apare.";
+$l['invalid_captcha'] = "V&#259; rug&#259;m s&#259; completa&#355;i c&#226;mpul cu codul imaginii captcha pentru a continua. V&#259 rug&#259;m s&#259; introduce&#355;i codul a&#351;a cum apare.";
+$l['invalid_nocaptcha'] = "V&#259; rug&#259;m s&#259; rezolva&#355;i c&#226;mpul reCAPTCHA pentru a verifica dac&#259; nu sunte&#355;i un robot.";
 $l['invalid_captcha_verify'] = "Codul imaginii de verificare pe care l-ai introdus este incorect. Te rug&#259;m s&#259; introduci codul a&#351;a cum apare.";
-$l['invalid_captcha_transmit'] = "A ap&#259;rut o eroare la verificarea imaginii captcha. Te rug&#259;m s&#259; &#238;ncerci din nou.";
+$l['image_verification'] = "Verificare imagine";
+$l['human_verification'] = "Verificare persoan&#259;";
+$l['verification_note'] = "V&#259; rug&#259;m s&#259; introduce&#355;i textul din imagine &#238;n casu&#355;a de mai jos. Acest proces are loc pentru a preveni robo&#355;ii de spam.";
+$l['verification_note_nocaptcha'] = "V&#259; rug&#259;m s&#259; bifa&#355;i casu&#355;a de mai jos. Acest proces are loc pentru a preveni robo&#355;ii de spam.";
+$l['verification_subnote'] = "(majusculele sunt nesemnificative)";
+$l['invalid_captcha_transmit'] = "A ap&#259;rut o eroare la verificarea imaginii captcha. V&#259 rug&#259;m s&#259; &#238;ncerca&#355;i din nou.";
+$l['invalid_nocaptcha_transmit'] = "A ap&#259;rut o eroare la verificarea persoanei voastre. V&#259 rug&#259;m s&#259; &#238;ncerca&#355;i din nou.";
 $l['captcha_fetch_failure'] = 'A ap&#259;rut o eroare la prealuarea noului captcha.';
 $l['question_fetch_failure'] = 'A ap&#259;rut o eroare la prealuarea noii &#238;ntreb&#259;ri.';
 $l['invalid_ayah_result'] = "Jocul E&#351;ti Un Om nu a fost completat. V&#259; rug&#259;m s&#259; &#238;ncerca&#355;i din nou.";
@@ -532,6 +538,7 @@ $l['moderation_user_posts'] = "V&#259; rug&#259;m s&#259; re&#355;ine&#355;i c&#
 $l['moderation_forum_thread'] = "V&#259; rug&#259;m s&#259; re&#355;ine&#355;i c&#259; subiectele noi din acest forum trebuie s&#259; fie aprobate de un moderator &#238;nainte de a fi vizibile.";
 $l['moderation_forum_edits'] = "V&#259; rug&#259;m s&#259; re&#355;ine&#355;i c&#259; mesajele editate din acest forum trebuie s&#259; fie aprobate de un moderator &#238;nainte de a fi vizibile.";
 $l['moderation_forum_edits_quick'] = "V&#259; rug&#259;m s&#259; re&#355;ine&#355;i c&#259; mesajele editate din acest forum trebuie s&#259; fie aprobate de un moderator &#238;nainte de a fi vizibile.";
+$l['awaiting_message_link'] = " <a href=\"{1}/{2}/index.php?module=user-users&amp;action=search&amp;results=1&amp;conditions=a%3A1%3A%7Bs%3A9%3A%22usergroup%22%3Bs%3A1%3A%225%22%3B%7D\">Accesa&#355;i ACP</a>.";
 $l['awaiting_message_single'] = "Exist&#259; 1 cont care a&#351;teapt&#259; activarea. V&#259; rug&#259;m s&#259; accesa&#355;i PCA pentru a activa acest utilizator.";
 $l['awaiting_message_plural'] = "Exist&#259; {1} conturi care a&#351;teapt&#259; activarea. V&#259; rug&#259;m s&#259; accesa&#355;i PCA pentru a activa ace&#351;ti utilizatori.";
 
@@ -549,3 +556,10 @@ $l['select2_searching'] = "Se caut&#259;…";
 
 $l['stopforumspam_error_decoding'] = 'A ap&#259;rut o eroare &#238;n procesul de decodare a datelor de la StopForumSpam.com.';
 $l['stopforumspam_error_retrieving'] = 'A ap&#259;rut o eroare la preluarea datelor de la StopForumSpam.com.';
+
+$l['sfs_error_username'] = 'nume de utilizator';
+$l['sfs_error_ip'] = 'IP';
+$l['sfs_error_email'] = 'e-mail';
+$l['sfs_error_or'] = 'sau';
+
+$l['boardclosed_reason'] = 'Acest forum este momentan &#238;nchis pentru &#238;ntre&#355;inere. V&#259; rug&#259;m s&#259; reveni&#355;i mai t&#226;rziu';

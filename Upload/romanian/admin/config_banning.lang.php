@@ -16,6 +16,7 @@ $l['disallowed_email_addresses_desc'] = "Aici ve&#355;i gestiona o list&#259; de
 
 $l['banned_ip_addresses'] = "Adrese IP suspendate";
 $l['username'] = "Nume de utilizator";
+$l['search_user'] = "Caut&#259; un utilizator";
 $l['date_disallowed'] = "Data nepermis&#259;";
 $l['last_attempted_use'] = "Ultima &#238;ncercare de utilizare";
 $l['email_address'] = "Adres&#259; de e-mail";

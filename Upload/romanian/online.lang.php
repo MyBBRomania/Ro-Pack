@@ -66,7 +66,6 @@ $l['updating_options'] = "<a href=\"usercp.php?action=options\">Actualiz&#226;nd
 $l['editing_signature'] = "<a href=\"usercp.php?action=editsig\">Edit&#226;nd semn&#259;tura</a>";
 $l['changing_avatar'] = "<a href=\"usercp.php?action=avatar\">Schimb&#226;nd avatarul</a>";
 $l['viewing_subscriptions'] = "Vizualizand <a href=\"usercp.php?action=subscriptions\">subscriere la subiecte</a>";
-$l['viewing_favorites'] = "Vizualizand <a href=\"usercp.php?action=favorites\">subiecte favorite</a>";
 $l['editing_pad'] = "Editand <a href=\"usercp.php?action=notepad\">Carne&#355;el personal</a>";
 $l['editing_password'] = "Editeaza <a href=\"usercp.php?action=password\">parol&#259;</a>";
 $l['user_cp'] = "Vizualizand <a href=\"usercp.php\">panoul de comand&#259; al utilizatorului</a>";

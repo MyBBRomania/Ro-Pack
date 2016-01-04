@@ -91,10 +91,7 @@ $l['quickreply_multiquote_now'] = "Citeaz&#259; aceste mesaje acum";
 $l['or'] ="sau";
 $l['quickreply_multiquote_deselect'] = "deselecteaz&#259;-le";
 $l['search_thread'] = "Caut&#259; &#238;n subiect";
-$l['enter_keywords'] = "Introduce&#355;i cuvinte cheie";
-$l['image_verification'] = "Imagine de verificare";
-$l['verification_note'] = "V&#259; rug&#259;m introduce&#355;i textul din imaginea din st&#226;nga &#238;n casu&#355;a de mai jos. Prin acest proces &#238;ncerc&#259;m s&#259; prevenim post&#259;rile automate.";
-$l['verification_subnote'] = "(majusculele sunt nesemnificative)";$l['view_thread_notes'] = "Note subiect";
+$l['enter_keywords'] = "Introduce&#355;i cuvinte cheie";$l['view_thread_notes'] = "Note subiect";
 $l['view_all_notes'] = "Vezi toate notele";
 
 $l['save_changes'] = 'Salveaz&#259; schimb&#259;ri';
