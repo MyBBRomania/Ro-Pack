@@ -547,3 +547,5 @@ $l['select2_selectiontoobig_plural'] = "Pute&#355;i selecta doar {1} elemente";
 $l['select2_loadmore'] = "Se &#238;ncarc&#259; mai multe rezultate...";
 $l['select2_searching'] = "Se caut&#259;…";
 
+$l['stopforumspam_error_decoding'] = 'A ap&#259;rut o eroare &#238;n procesul de decodare a datelor de la StopForumSpam.com.';
+$l['stopforumspam_error_retrieving'] = 'A ap&#259;rut o eroare la preluarea datelor de la StopForumSpam.com.';

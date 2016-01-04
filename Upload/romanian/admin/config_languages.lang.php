@@ -37,7 +37,8 @@ $l['no_language_files_admin_cp'] = "Nu s-au g&#259;sit &#238;n sistem fi&#351;ie
 $l['error_invalid_set'] = "Setul de limb&#259; specificat este invalid.";
 $l['error_invalid_file'] = "Fi&#351;ierul de limb&#259; specificat este invalid.";
 $l['error_cannot_write_to_file'] = "Nu se pot scrie datele &#238;n fi&#351;ier. Verific&#259; permisiunile fi&#351;ierului pentru acest set lingvistic &#351;i &#238;ncearc&#259; din nou";
-$l['alert_note_cannot_write'] = "&#206;nainte de a putea edita un fi&#351;ier lingvistic, este necesar s&#259; &#238;i acorzi drepturi de scriere pe server pentru ca datele s&#259; poat&#259; fi salvate cu succes.";
+$l['error_folders_fail'] = "A ap&#259;rut o problem&#259; la accesarea dosarelor de limb&#259; dorite. V&#259; rug&#259;m s&#259; v&#259; asigura&#355;i c&#259; ele exist&#259; &#351;i pot fi scrise.";$l['alert_note_cannot_write'] = "&#206;nainte de a putea edita un fi&#351;ier lingvistic, este necesar s&#259; &#238;i acorzi drepturi de scriere pe server pentru ca datele s&#259; poat&#259; fi salvate cu succes.";
 $l['success_langfile_updated'] = "Fi&#351;ierul lingvistic a fost updatat cu succes.";
 $l['success_langprops_updated'] = "Propriet&#259;&#355;iile pachetului lingvistic au fost updatate cu succes.";
 $l['success_quickphrases_updated'] = "Expresiile lingvistice au fost actualizate cu succes.";
+$l['issues'] = "Probleme";$l['phrases'] = "Fraze";$l['issues_ok'] = "Pare c&#259; totul e &#238;n regul&#259; aici.";$l['issues_nothingtocompare'] = "Nu e nimic de comp&#259;rat aici.";$l['issues_warning'] = "Acest fi&#351;ier ar putea avea nevoie de aten&#355;ia voastr&#259;.\nV&#259; rug&#259;m s&#259;-l verifica&#355;i.";

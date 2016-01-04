@@ -91,6 +91,5 @@ $l['redirect_cookiescleared'] = "Toate cookie-urile au fost &#351;terse.";
 
 $l['error_invalidimtype'] = "Acest utilizator nu are acest tip de cont instant messenger specificat &#238;n profilul lui.";
 $l['error_invalidhelpdoc'] = "Se pare c&#259; nu exist&#259; documentul de ajutor specificat.";
-$l['error_invalidkey'] = "Nu a&#355;i putut fi verificat pentru &#351;tergerea cookie-urilor. Acest lucru poate fi din cauza unui cod Javascript malitios care a &#238;ncercat s&#259; &#351;tearg&#259; cookie-urile automat. Dac&#259; inten&#355;iona&#355;i s&#259; &#351;terge&#355;i cookie-urile, v&#259; rug&#259;m vizita&#355;i documentul de ajutor \"Folosirea Cookies &#238;n MyBB\".";
 
 $l['dst_settings_updated'] = "Set&#259;rile de fus orar au fost ajustate automat.<br /><br />Acum vei fi dus spre pagina principal&#259; a forumului.";

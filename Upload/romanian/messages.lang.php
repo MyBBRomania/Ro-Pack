@@ -29,6 +29,7 @@ $l['error_invalidforum'] = "Forum invalid";
 $l['error_closedinvalidforum'] = "Nu pute&#355;i posta &#238;n acest forum pentru c&#259; este &#238;nchis sau este o categorie.";
 $l['error_attachtype'] = "Tipul de fi&#351;ier ata&#351;at nu este permis. V&#259; rug&#259;m s&#259; folosi&#355;i o alt&#259; extensie.";
 $l['error_attachsize'] = "Fi&#351;ierul ata&#351;at este prea mare. M&#259;rimea maxim&#259; a ata&#351;amentelor de acest tip este de {1} kilobi&#355;i.";
+$l['error_uploadempty'] = "Fi&#351;ierul specificat e gol.";
 $l['error_uploadsize'] = "M&#259;rimea fi&#351;ierului &#238;nc&#259;rcat este prea mare.";
 $l['error_uploadfailed'] = "Procesul de ata&#351;are a fi&#351;ierului a e&#351;uat. V&#259; rug&#259;m s&#259; alege&#355;i un fi&#351;ier valid &#351;i s&#259; re&#238;ncerca&#355;i. ";
 $l['error_uploadfailed_detail'] = "Detalii eroare: ";
@@ -386,7 +387,7 @@ Echipa {3}
 {4}";
 
 $l['email_newpm'] = "{1},
-		
+
 Ati primit un nou mesaj privat pe {3} de la {2}:
 
 ------------------------------------------
@@ -440,10 +441,11 @@ Va multumim,
 {4} Staff";
 
 $l['email_contact_subject'] = "Contact: {1}";
-$l['email_contact'] = "Profil pe forum: {1}
-Adresa IP: {2}
+$l['email_contact'] = "E-mail: {1}
+Profil pe forum: {2}
+Adresa IP: {3}
 Mesaj:
-{3}";
+{4}";
 
 $l['pmsubject_subscription'] = "Raspuns nou la {1}";
 $l['pm_subscription'] = "{1},

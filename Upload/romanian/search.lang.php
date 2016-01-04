@@ -108,4 +108,3 @@ $l['error_nosearchterms'] = "Nu a&#355;i introdus termeni de c&#259;utare. Minim
 $l['error_searchflooding_1'] = "Ne pare r&#259;u, dar pute&#355;i efectua o c&#259;utare doar la {1} secunde. V&#259; rug&#259;m s&#259; a&#351;tepta&#355;i o secund&#259; &#238;nainte de a &#238;ncerca din nou.";
 $l['error_searchflooding'] = "Ne pare rau, dar puteti efectua o cautare doar la {1} secunde. V&#259; rugam s&#259; a&#351;tepta&#355;i {2} secunde &#238;nainte de a &#238;ncerca din nou.";
 $l['error_invalidsearch'] = "A&#355;i specificat o c&#259;utare invalid&#259;. V&#259; rug&#259;m re&#238;ncerca&#355;i.";
-

@@ -70,6 +70,10 @@ $l['away_reason'] = "Motivul:";
 $l['away_since'] = "Plecat din:";
 $l['away_returns'] = "Se re&#238;ntoarce &#238;n:";
 $l['away_no_reason'] = "Nespecificat.";
+$l['ban_note'] = "Acest cont este momentan suspendat.";
+$l['ban_by'] = "Suspendat De";
+$l['ban_length'] = "Durata Suspend&#259;rii";
+
 $l['users_additional_info'] = "Informa&#355;ii adi&#355;ionale despre {1}";
 $l['email'] = "E-mail:";
 $l['send_user_email'] = "Trimite-i lui {1} un email.";
@@ -251,4 +255,3 @@ Numele utilizatorului: {3}
 
 Va multumim,
 Echipa {2}";
-

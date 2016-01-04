@@ -4,7 +4,7 @@
  * Copyright 2014 MyBB Romania, Toate drepturile rezervate.
  *
  */
- 
+
 $l['warning_system'] = "Sistem de avertizare";
 $l['warning_types'] = "Tiprui de averitzare";
 $l['warning_types_desc'] = "Aici pute&#355;i gestiona lista cu diferitele tipuri de avertizare pe care echipa forumului le pot folosi asupra utilizatorilor.";
@@ -64,6 +64,7 @@ $l['expiration_permanent'] = "Permanent";
 $l['error_invalid_warning_level'] = "Nivelul de avertizare specificat nu exist&#259;.";
 $l['error_invalid_warning_percentage'] = "Nu a&#355;i introdus un procent valid pentru acest nivel de avertizare. Procentul trebuie s&#259; aib&#259; o valuare &#238;ntre 1 &#351;i 100.";
 $l['error_invalid_warning_type'] = "Tipul de avertizare specificat nu exist&#259;.";
+$l['error_missing_action_type'] = "V&#259; rug&#259;m s&#259; alege&#355;i o ac&#355;iune pentru acest nivel nou de avertizare.";
 $l['error_missing_type_title'] = "Nu a&#355;i introdus un titlu pentru acest tip de avertizare";
 $l['error_missing_type_points'] = "Nu a&#355;i introdus un num&#259;r valid de puncte care vor fi date la folosirea acestui tip. Trebuie s&#259; introduce&#355;i o valoare mai mare dec&#226;t 0 dar mai mic&#259; dec&#226;t {1}";
 
