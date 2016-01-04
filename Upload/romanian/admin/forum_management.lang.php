@@ -166,7 +166,6 @@ $l['forum_rules'] = "Regulile forumului";
 $l['name'] = "Nume";
 $l['username'] = "Nume de utilizator";
 $l['moderator_username_desc'] = "Numele de utilizator a moderatorului care va fi ad&#259;ugat";
-$l['search_user'] = "Caut&#259; un utilizator";
 $l['add_user_as_moderator'] = "Adaug&#259; un utilizator drept Moderator";
 $l['usergroup'] = "Grupul de utilizatori";
 $l['add_usergroup_as_moderator'] = "Adaug&#259; un grup de utilizatori drept Moderatori";

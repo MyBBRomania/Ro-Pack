@@ -61,7 +61,6 @@ $l['forum_password_note'] = "Administratorul a setat ca pentru accesul la acest 
 $l['enter_password_below'] = "V&#259; rug&#259;m introduce&#355;i parola mai jos:";
 $l['verify_forum_password'] = "Verific&#259; parol&#259; forum";
 $l['wrong_forum_password'] = "Parola introdus&#259; este incorect&#259;. Te rug&#259;m &#238;ncearc&#259; din nou.";
-
 $l['reset_button'] = "Reseteaz&#259;";
 $l['username'] = "Nume utilizator:";
 $l['username1'] = "E-mail:";
@@ -74,7 +73,6 @@ $l['login_password'] = "Parol&#259;";
 $l['lost_password'] = "Ai uitat parola?";
 $l['remember_me'] = "&#354;ine-m&#259; minte";
 $l['remember_me_desc'] = "Dac&#259; este bifat&#259;, datele tale de logare vor fi memorate pe acest calculator, altfel, vei fi delogat imediat ce &#238;nchizi browserul.";
-
 $l['month_1'] = "Ianuarie";
 $l['month_2'] = "Februarie";
 $l['month_3'] = "Martie";
@@ -110,7 +108,6 @@ $l['and'] = "&#351;i";
 $l['date'] = "Dat&#259;";
 
 $l['nobody'] = "Nimeni";
-
 $l['attachments'] = "Ata&#351;amente";
 $l['attachments_desc'] = "Op&#355;ional po&#355;i ata&#351;a unul sau mai multe fi&#351;iere la acest mesaj. Te rug&#259;m selecteaz&#259; fi&#351;ierul &#238;n dreapta &#351;i apas&#259; 'Adaug&#259; Ata&#351;ament' pentru a-l &#238;nc&#259;rca.";
 $l['remove_attachment'] = "&#350;terge";
@@ -231,6 +228,7 @@ $l['postbit_group'] = "Grup:";
 $l['postbit_joined'] = "Al&#259;turat:";
 $l['postbit_status'] = "Status:";
 $l['postbit_attachments'] = "Fi&#351;ier(e) ata&#351;ate";
+$l['postbit_attachment_filename'] = "Numele fi&#351;ierului:";
 $l['postbit_attachment_size'] = "M&#259;rime:";
 $l['postbit_attachment_downloads'] = "Desc&#259;rc&#259;ri:";
 $l['postbit_attachments_images'] = "Imagine(i)";
