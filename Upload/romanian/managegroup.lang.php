@@ -44,7 +44,6 @@ $l['group_public_invite'] = "Acest grup de utilizatori este un grup public care 
 $l['group_private'] = "Acest grup de utlizatori este privat. Doar utilizatorii ad&#259;uga&#355;i de un conduc&#259;tor de grup pot face parte din acest grup.";
 $l['group_default'] = "Acest grup de utilizatori este un grup de baz&#259;.";
 $l['group_leaders'] = "Conduc&#259;torii grupului";
-$l['search_user'] = "Caută un utilizator";
 $l['no_users_selected'] = "Ne pare r&#259;u, dar niciun utilizator nu pare a fi selectat penru &#351;tergere.<br />Te rug&#259;m s&#259; mergi &#238;napoi &#351;i s&#259; selectezi utilizatorii pe care vrei s&#259; &#238;i &#351;tergi din acest grup.";
 
 $l['error_alreadyingroup'] = "Utilizatorul specificat face parte deja din grupul de utilizatori.";

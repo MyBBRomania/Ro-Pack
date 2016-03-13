@@ -13,7 +13,6 @@ $l['aol_im'] = "AOL IM";
 $l['skype'] = "Skype";
 $l['yahoo_im'] = "Yahoo IM";
 $l['skype_center'] = "Centrul Skype";
-$l['skype_status'] = "Status Skype";
 $l['chat_on_skype'] = "Discuta cu {1} pe Skype";
 $l['call_on_skype'] = "Suna-l pe {1} pe Skype";
 $l['yahoo_center'] = "Yahoo! Center";
@@ -89,7 +88,12 @@ $l['redirect_markforumsread'] = "Toate forumurile au fost marcate ca citite.";
 $l['redirect_forumpasscleared'] = "Parola stocat&#259; pentru acest forum a fost &#351;tears&#259;.";
 $l['redirect_cookiescleared'] = "Toate cookie-urile au fost &#351;terse.";
 
-$l['error_invalidimtype'] = "Acest utilizator nu are acest tip de cont instant messenger specificat &#238;n profilul lui.";
+$l['error_invalidforum'] = "Forum invalid";
 $l['error_invalidhelpdoc'] = "Se pare c&#259; nu exist&#259; documentul de ajutor specificat.";
+$l['error_invalidimtype'] = "Acest utilizator nu are acest tip de cont instant messenger specificat &#238;n profilul lui.";
+$l['error_invalidsearch'] = "C&#259;utarea este invalid&#259;. V&#259; rug&#259;m s&#259; incercati din nou.";
+$l['error_no_search_support'] = "Sistemul bazei de date folosit nu suport&#259; facilitatea de c&#259;utare.";
+$l['error_searchflooding'] = "Ne pare r&#259;u, dar pute&#355;i realiza o c&#259;utare o dat&#259; la fiecare {1} secunde. V&#259; rug&#259;m s&#259; astepta&#355;i &#238;nc&#259; {2} secunde &#238;nainte de a re&#238;ncerca s&#259; c&#259;uta&#355;i.";
+$l['error_searchflooding_1'] = "Ne pare r&#259;u, dar pute&#355;ti realiza o c&#259;utare o dat&#259; la fiecare {1} secunde. V&#259; rug&#259;m s&#259; astepta&#355;i &#238;nc&#259; 1 secund&#259; &#238;nainte de a re&#238;ncerca s&#259; c&#259;uta&#355;i.";
 
 $l['dst_settings_updated'] = "Set&#259;rile de fus orar au fost ajustate automat.<br /><br />Acum vei fi dus spre pagina principal&#259; a forumului.";

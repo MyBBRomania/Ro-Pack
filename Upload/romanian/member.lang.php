@@ -25,13 +25,11 @@ $l['email_subject'] = "Subiect Email";
 $l['email_message'] = "Mesaj Email";
 $l['send_email'] = "Trimite Email";
 $l['error_hideemail'] = "Destinatarul a ales s&#259; &#238;&#351;i ascund&#259; adresa de email &#351;i ca urmare nu pute&#355;i s&#259; &#238;i trimite&#355;i emailuri.";
-
 $l['error_no_email_subject'] = "Trebuie s&#259; introduci un subiect pentru emailul t&#259;u";
 $l['error_no_email_message'] = "Trebuie s&#259; introduci un mesaj pentru emailul t&#259;u";
 
 $l['login'] = "Logare";
 $l['pw_note'] = "V&#259; rug&#259;m s&#259; ave&#355;i &#238;n vedere c&#259; parolele sunt diferite, scrise cu litere mari sau mici.";
-
 $l['lostpw_note'] = "Ai uitat parola?";
 $l['lost_pw'] = "Parola contului uitat&#259;";
 $l['lost_pw_form'] = "Formular de recuperare a parolei pierdute";
@@ -73,7 +71,6 @@ $l['away_since'] = "Plecat din:";
 $l['away_returns'] = "Se re&#238;ntoarce &#238;n:";
 $l['away_no_reason'] = "Nespecificat.";
 $l['ban_note'] = "Acest cont este momentan suspendat.";
-
 $l['ban_by'] = "Suspendat De";
 $l['ban_length'] = "Durata Suspend&#259;rii";
 $l['ban_remaining'] = "r&#259;mas";
@@ -88,11 +85,9 @@ $l['agreement_2'] = "Prin &#238;nregistrarea &#238;n acest sistem de discu&#355;
 $l['agreement_3'] = "Prin nerespectarea acestor reguli risca&#355;i &#238;nchiderea contului, suspendarea sau interzicerea accesului &#238;n acest forum. Adresa IP este &#238;nregistrat&#259; prin fiecare mesaj creat &#351;i se poate ob&#355;ine de c&#259;tre echipa administrativ&#259;, dac&#259; este necesar. Sunte&#355;i de acord c&#259; avem capacitatea &#351;i DREPTUL de a &#351;terge, edita sau &#238;nchide un cont sau mesaj &#238;n orice moment. De asemenea accepta&#355;i ca orice informa&#355;ie introdus&#259; &#238;n acest sistem este p&#259;strat&#259; &#238;ntr-o baz&#259; de date &#351;i c&#259; ve&#355;i p&#259;stra \"cookiurile\" pe calculator pentru a se salva informa&#355;iile de autentificare.";
 $l['agreement_4'] = "Nicio informa&#355;ie oferit&#259; &#238;n acest forum nu va fi dezv&#259;luit&#259; unei p&#259;r&#355;i ter&#355;e f&#259;r&#259; acordul deplin, de&#351;i echipa administrativ&#259; nu poate fi f&#259;cut&#259; responsabil&#259; pentru &#238;ncerc&#259;rile de hacking prin care datele v&#259; sunt compromise.";
 $l['agreement_5'] = "Prin continuarea procesului de &#238;nregistrare declara&#355;i c&#259; sunte&#355;i de acord cu aceste reguli &#351;i altele pe care le va preciza Administratorul.";
-
 $l['registration'] = "&#206;nregistrare";
 $l['required_fields'] = "C&#226;mpuri necesare";
 $l['complex_password'] = "Parola <acronym title=\"O parola care este de cel putin {1} caractere lungime si contine o litera mare, o litera mica si un numar.\">Complexa</acronym>:";
-
 $l['confirm_email'] = "Confirm&#259; email:";
 $l['optional_fields'] = "C&#226;mpuri op&#355;ionale";
 $l['website_url'] = "Pagina ta web:";
@@ -106,24 +101,19 @@ $l['invisible_mode'] = "Nu arata c&#226;nd sunt online.";
 $l['allow_notices'] = "Prime&#351;te emailuri de la administratori.";
 $l['hide_email'] = "Ascunde emailul fa&#355;&#259; de al&#355;i membri.";
 $l['email_notify'] = "&#206;nscriere automat&#259; &#238;n subiectele &#238;n care postez.";
-
 $l['receive_pms'] = "Prime&#351;te mesaje private de la al&#355;i utilizatori.";
 $l['pm_notice'] = "Anun&#355;&#259;-m&#259; cu o notificare c&#226;nd primesc un mesaj privat.";
-
 $l['email_notify_newpm'] = "Anun&#355;&#259; prin email primirea unui mesaj privat.";
 $l['time_offset'] = "Excludere corec&#355;ie (<acronym title=\"Ora de vara (Daylight Saving Time)\">DST</acronym> din fusul orar):";
 $l['time_offset_desc'] = "Dac&#259; locui&#355;i &#238;ntr-o zon&#259; cu fus orar ce difera de cel setat de forum, &#238;l pute&#355;i selecta din lista de mai jos.";
-
 $l['dst_correction'] = "Corectare or&#259; de var&#259;:";
 $l['dst_correction_auto'] = "Detecteaz&#259; automat set&#259;rile DST";
 $l['dst_correction_enabled'] = "&#206;ntodeauna folose&#351;te corec&#355;ia DST";
 $l['dst_correction_disabled'] = "Nu folosi niciodat&#259; corec&#355;ia DST";
 $l['redirect_registered_coppa_activate'] = "V&#259; mul&#355;umim pentru &#238;nregistrare pe {1}, {2}. Contul vostru a fost creat cu succes, totu&#351;i pentru c&#259; de&#355;in&#259;torul contului are sub 13 ani, este necesar&#259; permisia parental&#259; &#238;nainte ca acest cont s&#259; fie folosit.<br /><br />Un p&#259;rinte sau un tutore legal trebuie s&#259; descarce, completeze &#351;i s&#259; ne trimit&#259; o copie a <a href=\"member.php?action=coppa_form\">COPPA Compliance &#38; formularului de permisiune</a>.<br /><br />Odat&#259; ce primim o copie complet&#259; a acestui formular, contul va fi activat.";
-
 $l['coppa_compliance'] = "COPPA Compliance";
 $l['coppa_desc'] = "Pentru a v&#259; &#238;nregistra pe acest forum, trebuie s&#259; verific&#259;m v&#226;rsta pentru a corespunde cu <a href=\"http://coppa.org/\" title=\"Children's Online Privacy Protection Act\" target=\"_blank\">COPPA</a>. V&#259; rug&#259;m introduce&#355;i data na&#351;terii mai jos.<br /><br />Dac&#259; sunte&#355;i sub v&#226;rsta de 13 ani, permisiile parentale trebuie s&#259; fie ob&#355;inute &#238;nainte de &#238;nregistrare. Un p&#259;rinte sau un tutore legal trebuie s&#259; descarce, completeze &#351;i s&#259; ne trimit&#259; o copie a <a href=\"member.php?action=coppa_form\" target=\"_blank\">COPPA Compliance &#38; Formularului de permisiune</a>.";
 $l['hide_dob'] = "Po&#355;i s&#259; alegi s&#259; ascunzi data na&#351;terii &#351;i v&#226;rsta prin editarea profilului dup&#259; &#238;nregistrare.";
-
 $l['signature'] = "Semn&#259;tur&#259;:";
 $l['continue_registration'] = "Continu&#259; &#206;nregistrarea";
 $l['birthdayprivacy'] = "Ascunde data na&#351;terii:";
@@ -134,7 +124,6 @@ $l['leave_this_field_empty'] = "Las&#259; acest c&#226;mp necompletat:";
 $l['error_need_to_be_thirteen'] = "Trebuie s&#259; ai 13 ani sau mai mult pentru a te &#238;nregistra pe acest forum.";
 $l['coppa_registration'] = "Formular de &#238;nregistrare COPPA";
 $l['coppa_form_instructions'] = "V&#259; rug&#259;m printa&#355;i acest formular, completa&#355;i-l &#351;i trimite&#355;i-l prin num&#259;rul de fax de mai jos sau prin adresa de email.";
-
 $l['fax_number'] = "Num&#259;r fax:";
 $l['mailing_address'] = "Adresa email:";
 $l['account_information'] = "Informa&#355;ii Cont";
@@ -159,23 +148,18 @@ $l['submit_registration'] = "&#206;nregistrare!";
 $l['confirm_password'] = "Confirmare parol&#259;:";
 $l['referrer'] = "&#206;ndrum&#259;tor:";
 $l['referrer_desc'] = "Dac&#259; a&#355;i fost &#238;ndrumat c&#259;tre acest forum de c&#259;tre alt membru pute&#355;i introduce numele s&#259;u mai jos. Dac&#259; nu lasa&#355;i gol acest c&#226;mp.";
-
-$l['search_user'] = "Caută un utilizator";
 $l['resend_activation'] = "Retrimite activarea contului";
 $l['request_activation'] = "Cere codul de activare";
 $l['ppp'] = "Mesaje pe pagina:";
 $l['ppp_desc'] = "Selecteaz&#259; num&#259;rul de mesaje pe pagina &#238;ntr-un subiect.";
-
 $l['tpp'] = "Subiecte pe pagin&#259;:";
 $l['tpp_desc'] = "Selecteaz&#259; num&#259;rul de subiecte pe pagin&#259; &#238;ntr-o list&#259; de subiecte.";
-
 $l['reset_password'] = "Reseteaz&#259; parola";
 $l['send_password'] = "Trimite parol&#259; nou&#259;!";
 $l['registration_errors'] = "Urm&#259;toarele erori au ap&#259;rut la &#238;nregistrare:";
 $l['timeonline'] = "Timp petrecut Online:";
 $l['timeonline_hidden'] = "(Ascuns)";
 $l['registrations_disabled'] = "Ne pare r&#259;u, nu v&#259; pute&#355;i &#238;nregistra acum pentru ca administratorul a interzis noi &#238;nregistr&#259;ri.";
-
 $l['error_username_length'] = "Numele de utilizator este invalid. Numele de utilizatori au &#238;ntre {1} si {2} caractere.";
 $l['error_stop_forum_spam_spammer'] = 'Ne pare r&#259;u, numele de utilizator sau adresa de e-mail coincide cu cea a unui spammer cunoscut Dac&#259; sunte&#355;i de p&#259;rere c&#259; este o gre&#351;eal&#259;, contacta&#355;i administratorul forumului.';
 $l['error_stop_forum_spam_fetching'] = 'Ne pare r&#259;u, dar a avut loc o problem&#259; la verificarea contului vostru fa&#259; de baza de date a spammerilor. Cel mai probabil baza de date nu a putut fi accesat&#259;. V&#259; rug&#259;m s&#259; &#238;ncerca&#355;i mai t&#226;rziu.';
@@ -198,28 +182,26 @@ $l['already_logged_in'] = "Not&#259;: E&#351;ti deja logat ca &#351;i {1}.";
 $l['admin_edit_in_acp'] = "Editeaz&#259; acest utilizator &#238;n Admin CP";
 $l['admin_ban_in_acp'] = "Baneaz&#259; acest utilizator &#238;n Admin CP";
 $l['admin_options'] = "Op&#355;iuni Administrator";
+
 $l['redirect_registered_activation'] = "V&#259; mul&#355;umim pentru &#238;nregistrare pe {1}, {2}.<p>Pentru a &#238;ncheia &#238;nregistrarea, verifica&#355;i-v&#259; emailul pentru instruc&#355;iuni privitoare la activarea contului. Trebuie s&#259; ave&#355;i contul activat pentru a putea posta &#238;n acest forum";
 $l['redirect_emailupdated'] = "Mail-ul a fost schimbat cu succes.<br />Ve&#355;i fi direc&#355;ionat c&#259;tre pagina principal&#259;.";
 $l['redirect_accountactivated'] = "Contul a fost activat cu succes.<br />Ve&#355;i fi direc&#355;ionat c&#259;tre pagina principal&#259;.";
 $l['redirect_accountactivated_admin'] = "E-mailul vostru a fost validat cu succes.<br />&#206;nregistrarea voastr&#259; trebuie s&#259; fie validat&#259; de un administrator. P&#226;n&#259; atunci, s-ar putea s&#259; nu fi&#355;i capabil s&#259; posta&#355;i &#238;n acest forum.<br />Acum ve&#355;i fi redirec&#355;ionat c&#259;tre pagina principal&#259;.";
-
 $l['redirect_registered'] = "V&#259; mul&#355;umim pentru &#238;nregistrare pe {1}, {2}.<br />Ve&#355;i fi direc&#355;ionat c&#259;tre pagina principal&#259;.";
 $l['redirect_registered_admin_activate'] = "V&#259; mul&#355;umim pentru &#238;nregistrare pe {1}, {2}.<br />&#206;nregistrarea trebuie activat&#259; de administrator. P&#226;n&#259; atunci nu pute&#355;i posta &#238;n acest forum.";
 $l['redirect_loggedout'] = "A&#355;i fost delogat cu succes.<br />Ve&#355;i fi direc&#355;ionat c&#259;tre pagina principal&#259;.";
 $l['redirect_alreadyloggedout'] = "Era&#355;i deja delogat sau nu v-a&#355;i logat &#238;nc&#259;.<br />Ve&#355;i fi direc&#355;ionat c&#259;tre pagina principal&#259;.";
 $l['redirect_lostpwsent'] = "V&#259; mul&#355;umim, c&#259;tre toate conturile care apar&#355;in acelei adrese de mail a fost trimis un mail cu detalii despre resetarea parolei.<br /><br />Ve&#355;i fi direc&#355;ionat c&#259;tre pagina principal&#259;.";
-
 $l['redirect_activationresent'] = "Email-ul de activare a fost retrimis.";
 $l['redirect_passwordreset'] = "V&#259; mul&#355;umim, parola contului a fost resetat&#259;. Noua parol&#259; generat&#259; aleator a fost trimis&#259; c&#259;tre adresa de mail.";
-
 $l['redirect_memberrated'] = "Utilizatorul a fost evaluat cu succes.";
 $l['redirect_registered_passwordsent'] = "O parol&#259; aleatoare a fost generat&#259; &#351;i trimis&#259; c&#259;tre adresa de mail. &#206;nainte de a intra pe forum este nevoie s&#259; verifica&#355;i emailul.";
 $l['redirect_validated'] = "V&#259; mul&#355;umim, contul a fost validat.<br />Ve&#355;i fi direc&#355;ionat c&#259;tre forum.";
+
 $l['error_activated_by_admin'] = "Nu pute&#355;i retrimite emailul cu codul de activare pentru c&#259; toate &#238;nregistr&#259;rile trebuie aprobate de administrator.";
 $l['error_alreadyregistered'] = "Ne pare r&#259;u dar sunte&#355;i deja &#238;nregistrat pe acest forum iar &#238;nregistrarea mai multor conturi a fost dezactivat&#259;.";
 $l['error_alreadyregisteredtime'] = "Nu putem procesa &#238;nregistrarea pentru c&#259; deja au fost depistate {1} noi &#238;nregistr&#259;ri de pe aceast&#259; adres&#259; IP &#238;n ultimele {2} ore. V&#259; rug&#259;m s&#259; &#238;ncerca&#355;i mai t&#226;rziu.";
 $l['error_badlostpwcode'] = "A&#355;i introdus un cod de resetare a parolei gre&#351;it. V&#259; rug&#259;m reciti&#355;i email-ul primit sau contacta&#355;i administratorul forumului pentru asisten&#355;&#259;.";
-
 $l['error_badactivationcode'] = "A&#355;i introdus un cod de activare invalid. Pentru a retrimite toate mail-urile de activare c&#259;tre adresa de mail, apas&#259; <a href=\"member.php?action=resendactivation\">aici</a>.";
 $l['error_alreadyactivated'] = "Contul este deja activat sau nu are nevoie de verificare.";
 $l['error_alreadyvalidated'] = "E-mailul vostru a fost validat.";

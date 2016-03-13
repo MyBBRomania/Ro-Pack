@@ -391,7 +391,6 @@ $l['icon_no_new'] = "F&#259;r&#259; mesaje noi.";
 $l['icon_new'] = "Mesaje noi.";
 $l['icon_hot'] = " Subiect aprins.";
 $l['icon_lock'] = " Subiect &#238;nchis.";
-$l['search_user'] = "Caută un utilizator";
 
 $l['buddylist_error'] = 'A ap&#259;rut o eroare la preluarea listei de prieteni. ';
 

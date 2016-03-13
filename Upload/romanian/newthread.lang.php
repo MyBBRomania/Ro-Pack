@@ -39,6 +39,7 @@ $l['multiquote_external_quote'] = "Cita&#355;i s&#351;i aceste mesaje";
 $l['redirect_newthread'] = "V&#259; mul&#355;umim, subiectul a fost postat."; 
 $l['redirect_newthread_poll'] = "<br />Ve&#355;i fi redirec&#355;ionat c&#259;tre op&#355;iunile sondajului &#351;i configurare."; 
 $l['redirect_newthread_moderation'] = "<br />Administratorul a specificat ca toate subiectele s&#259; aib&#259; nevoie de moderare. Ve&#355;i fi directat c&#259;tre lista cu subiecte."; 
+$l['redirect_newthread_unviewable'] = "<br />Nu ave&#355;i permisiunea de a vedea subiectele din acest forum. Ve&#355;i fi returnat c&#259;tre forum.";
 $l['redirect_newthread_thread'] = "<br />Ve&#355;i fi directat c&#259;tre subiectul nou.";
 $l['invalidthread'] = "Ciorna specificat&#259; nu exist&#259; sau nu ave&#355;i permisiunea s&#259; o vede&#355;i.";
 
@@ -50,3 +51,4 @@ $l['error_suspendedposting'] = "Privilegiile voastre de postare sunt momentan su
 Data Suspend&#259;rii: {2}";
 $l['error_suspendedposting_temporal'] = "p&#226;n&#259; la {1}";
 $l['error_suspendedposting_permanent'] = "permanent";
+

@@ -6,7 +6,8 @@
  */
 $l['post_thread'] = "Posteaz&#259; Subiect";
 $l['moderated_by'] = "Moderat De:";
-$l['nothreads'] = "Ne pare r&#259;u dar acum nu sunt subiecte &#238;n acest forum cu limitele de dat&#259; &#351;i timp specificate.";
+$l['nothreads'] = "Ne pare r&#259;u, dar acum nu sunt subiecte &#238;n acest forum cu limitele de dat&#259; &#351;i timp specificate.";
+$l['nopermission'] = "Ne pare r&#259;u, dar nu ave&#355;i permisiunea necesar&#259; pentru a vedea subiectele din acest forum.";
 $l['search_forum'] = "Caut&#259; &#238;n acest Forum:";
 $l['thread'] = "Subiect";
 $l['author'] = "Autor";
@@ -94,3 +95,4 @@ $l['select_all'] = "Selecteaz&#259; toate <strong>{1}</strong> subiectele din ac
 $l['clear_selection'] = "Deselecteaz&#259;.";
 $l['error_containsnoforums'] = "Ne pare r&#259;u dar forumul pe care &#238;l vizitezi acum nu con&#355;ine niciun subforum.";
 $l['inline_edit_description'] = '(Apasă şi ţine apăsat clic pentru a edita)';
+

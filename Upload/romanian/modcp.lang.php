@@ -326,4 +326,3 @@ $l['you_cannot_moderate_attachments'] = "Nu ave&#355;i permisiunile necesare pen
 $l['you_cannot_use_mod_queue'] = "Nu ave&#355;i permisiunile necesare pentru a folosi Coade de Moderare.";
 
 $l['post'] = 'Posteaz&#259;';
-$l['search_user'] = "Caută un utilizator";

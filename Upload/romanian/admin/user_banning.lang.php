@@ -60,5 +60,4 @@ $l['prune_threads_and_posts'] = "&#350;terge subiectele &#38; mesajele";
 // Buttons
 $l['ban_user'] = "Suspend&#259; utilizator";
 $l['update_ban'] = "Actualizeaz&#259; Suspendare";
-$l['search_user'] = 'Caut&#259; Utilizator';
 

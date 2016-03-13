@@ -47,7 +47,6 @@ $l['search_icq'] = "Num&#259;r ICQ";
 $l['search_options'] = "Op&#355;iuni c&#259;utare";
 $l['per_page'] = "Rezultate per pagin&#259;";
 $l['search'] = "Caut&#259;";
-$l['search_user'] = "Caută un utilizator";
 
 $l['error_no_members'] = "<p>Nu s-au g&#259;sit membri av&#226;nd criteriul de c&#259;utare introdus.</p><p>V&#259; rug&#259;m introduce&#355;i un termen de c&#259;utare diferit &#351;i &#238;ncerca&#355;i din nou.</p>";
 

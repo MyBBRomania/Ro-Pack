@@ -93,7 +93,6 @@ $l['page_selected'] = "Toate cele <strong>{1}</strong> rezultate din aceast&#259
 $l['all_selected'] = "Toate cele <strong>{1}</strong> rezultate din aceast&#259; c&#259;utare sunt selectate.";
 $l['select_all'] = "Selecteaz&#259; toate cele <strong>{1}</strong> rezultate din aceast&#259; c&#259;utare.";
 $l['clear_selection'] = "Deselectare.";
-$l['search_user'] = "Caută un utilizator";
 
 $l['results'] = "rezultate";
 $l['mod_options'] = "Op&#355;iuni moderator";

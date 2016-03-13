@@ -494,3 +494,10 @@ Daca nu mai doriti sa primiti notificari pentru acest subiect, vizitati urmatoru
 [url]{5}/usercp2.php?action=removesubscription&tid={7}&key={8}&my_post_key={9}[/url]
 
 ------------------------------------------";
+
+$l['email_broken_task_subject'] = "Eroare sarcina MyBB {1}";
+$l['email_broken_task'] = "Copia voastra de MyBB care ruleaza pe {1} ({2}) a intampinat o eroare cu sistemul de sarcini.
+
+Fisierul penru sarcina {3} lipseste.
+
+Aceasta sarcina fost dezactivata pana cand problema va fi rezolvata.";

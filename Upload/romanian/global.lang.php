@@ -61,6 +61,7 @@ $l['forum_password_note'] = "Administratorul a setat ca pentru accesul la acest 
 $l['enter_password_below'] = "V&#259; rug&#259;m introduce&#355;i parola mai jos:";
 $l['verify_forum_password'] = "Verific&#259; parol&#259; forum";
 $l['wrong_forum_password'] = "Parola introdus&#259; este incorect&#259;. Te rug&#259;m &#238;ncearc&#259; din nou.";
+
 $l['reset_button'] = "Reseteaz&#259;";
 $l['username'] = "Nume utilizator:";
 $l['username1'] = "E-mail:";
@@ -73,6 +74,7 @@ $l['login_password'] = "Parol&#259;";
 $l['lost_password'] = "Ai uitat parola?";
 $l['remember_me'] = "&#354;ine-m&#259; minte";
 $l['remember_me_desc'] = "Dac&#259; este bifat&#259;, datele tale de logare vor fi memorate pe acest calculator, altfel, vei fi delogat imediat ce &#238;nchizi browserul.";
+
 $l['month_1'] = "Ianuarie";
 $l['month_2'] = "Februarie";
 $l['month_3'] = "Martie";
@@ -108,6 +110,7 @@ $l['and'] = "&#351;i";
 $l['date'] = "Dat&#259;";
 
 $l['nobody'] = "Nimeni";
+
 $l['attachments'] = "Ata&#351;amente";
 $l['attachments_desc'] = "Op&#355;ional po&#355;i ata&#351;a unul sau mai multe fi&#351;iere la acest mesaj. Te rug&#259;m selecteaz&#259; fi&#351;ierul &#238;n dreapta &#351;i apas&#259; 'Adaug&#259; Ata&#351;ament' pentru a-l &#238;nc&#259;rca.";
 $l['remove_attachment'] = "&#350;terge";
@@ -305,6 +308,8 @@ $l['unread_reports'] = "Not&#259; Moderator: Sunt {1} mesaje raportate necitite.
 $l['pending_joinrequest'] = "Group Leader Notice: You have 1 pending group membership join request.";
 $l['pending_joinrequests'] = "Group Leader Notice: You have {1} pending group membership join requests.";
 
+$l['search_user'] = "Caut&#259; un utilizator";
+
 $l['year'] = "Anul";
 $l['year_short'] = "a";
 $l['years'] = "Ani";
@@ -423,7 +428,6 @@ $l['invalid_captcha_transmit'] = "A ap&#259;rut o eroare la verificarea imaginii
 $l['invalid_nocaptcha_transmit'] = "A ap&#259;rut o eroare la verificarea persoanei voastre. V&#259 rug&#259;m s&#259; &#238;ncerca&#355;i din nou.";
 $l['captcha_fetch_failure'] = 'A ap&#259;rut o eroare la prealuarea noului captcha.';
 $l['question_fetch_failure'] = 'A ap&#259;rut o eroare la prealuarea noii &#238;ntreb&#259;ri.';
-$l['invalid_ayah_result'] = "Jocul E&#351;ti Un Om nu a fost completat. V&#259; rug&#259;m s&#259; &#238;ncerca&#355;i din nou.";
 
 $l['timezone_gmt_minus_1200'] = "(GMT -12:00) Enitwetok, Kwajalien";
 $l['timezone_gmt_minus_1100'] = "(GMT -11:00) Nome, Midway Island, Samoa";
