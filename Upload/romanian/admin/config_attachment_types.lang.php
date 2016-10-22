@@ -42,3 +42,12 @@ $l['success_attachment_type_deleted'] = "Tipul de ata&#351;ament a fost &#351;te
 
 $l['confirm_attachment_type_deletion'] = "Sunte&#355;i sigur c&#259; vre&#355;i s&#259; &#351;terge&#355;i acest tip de ata&#351;ament?";
 
+$l['success_activated_attachment_type'] = 'Tipul de ata&#351;ament selectat a fost activat cu succes.';
+$l['success_deactivated_attachment_type'] = 'Tipul de ata&#351;ament selectat a fost dezactivat cu succes.';
+
+$l['enabled'] = "Activat?";
+$l['avatar_file'] = 'Fișierul Avatar';
+$l['avatar_file_desc'] = 'Dori&#355;i s&#259; permite&#355;i acest tip de ata&#351;ament pentru avatare?';
+
+$l['available_to_groups'] = 'Disponibil grupurilor';
+$l['available_in_forums'] = 'Disponibil &#238;n forumurile';

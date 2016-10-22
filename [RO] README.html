@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MyBB Readme</title>
+<style>
+body {
+	background: #f5f5f5;
+}
+
+#container {
+	width: 960px;
+	margin: -10px auto;
+	color: #333;
+	font-family: Arial;
+	font-size: 14px;
+	line-height: 18px;
+}
+
+#header {
+	background: #f9f9f9;
+	text-align: center;
+	border-left: 1px solid #eee;
+	border-right: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+	padding-top: 10px;
+}
+
+#header p {
+	text-align: left;
+	color: #999;
+}
+
+#content {
+	background: #fff;
+	padding: 25px;
+	border-left: 1px solid #eee;
+	border-right: 1px solid #eee;
+}
+
+#footer {
+	border-top: 1px solid #ddd;
+	color: #999;
+	text-align: center;
+}
+
+a {
+	color: #0072BC;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1 {
+	color: #777;
+	font-size: 1.7em;
+	font-weight: normal;
+	line-height: 30px;
+}
+
+h2 {
+	color: #666;
+	margin-bottom: 22px;
+	font-size: 2em;
+	font-weight: normal;
+	text-indent: 30px;
+}
+
+p {
+	text-indent: 30px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.language {
+	font-weight: bold;
+}
+
+.folder {
+	color: #428bca;
+	font-weight: bold;
+}
+
+.file {
+	color: #5cb85c;
+	font-weight: bold;
+}
+</style>
+</head>
+<body>
+<div id="container">
+	<div id="header">
+		<div id="logo">
+			<h1>
+				<a href="http://www.mybb.ro/" target="_blank"><img src="./images/logo.png" width="224" height="75" alt="MyBB Romania"></a>
+				<br />
+				1.8.8
+			</h1>
+		</div>
+	</div>
+	<div id="content">
+		<a name="introduction"></a>
+		<h2>Introducere</h2>
+		<p>&#206;n mod implicit, MyBB este instalat cu fi&#351;ierele de limba Englez&#259; American&#259;, dar mul&#355;umit&#259; voluntarilor MyBB, este disponibil &#351;i &#238;n alte limbi. Acest pachet de limb&#259; v&#259; d&#259; posibilitatea s&#259; folosi&#355;i MyBB &#238;n <span class="language">limba rom&#226;n&#259;</span>.</p>
+		<br />
+
+		<a name="installation"></a>
+		<h2>Instalare</h2>
+		<p>Textul &#238;n <span class="language">limba rom&#226;n&#259;</span> este stocat &#238;n fi&#351;ierele de limb&#259;, care sunt &#238;mpachetate &#238;ntr-o arhiv&#259; &#238;mpreun&#259; cu acest fi&#351;ier care con&#355;ine instruc&#355;iunile de instalare &#238;n limba rom&#226;n&#259; &#351;i englez&#259;. Aceste fi&#351;iere de limba sunt &#238;mp&#259;r&#355;ite &#238;n c&#226;teva foldere. De la versiunea 1.8.0 &#238;ncoace, nu mai sunt distribuite imagini odat&#259; cu acest pachet, deoarece fiecare buton este creat &#238;n HTML.</p>
+		<p>Acest fi&#351;ier Readme, c&#226;t &#351;i cel &#238;n <span class="language">englez&#259;</span> sunt &#238;n folderul principal. &#206;n subfolderul <span class="folder">Upload</span> se afl&#259; un folder numit <span class="folder">romanian</span> &#351;i fi&#351;ier numit <span class="file">romanian.php</span>, care ofer&#259; informa&#355;ii de baz&#259; despre traducere. Fisierele care con&#355;in traducerea textului pentru forum sunt &#238;ntr-un folder numit <span class="folder">romanian</span>, iar fi&#351;ierele care con&#355;in traducerea pentru Panoul de Administrare sunt &#238;ntr-un folder numit <span class="folder">admin</span>.</p>
+		<p>Va trebui s&#259; crea&#355;i aceea&#351;i structur&#259; de foldere pe serverul vostru &#351;i s&#259; plasa&#355;i fi&#351;ierele de limb&#259; &#238;n aceste foldere. Mai jos sunt instruc&#355;iuni detaliate despre cum s&#259; face&#355;i acest lucru. O s&#259; presupunem c&#259; a&#355;i extras deja con&#355;inutul arhivei pe computerul vostru, ceea ce &#238;nseamn&#259; c&#259; fi&#351;ierele sunt deja disponibile &#351;i structura de foldere este a&#351;a cum trebuie s&#259; fie. O s&#259; mai presupunem c&#259; &#351;ti&#355;i cum s&#259; folosi&#355;i un client FTP pentru a v&#259; conecta la server. Sarcinile de mai jos ar trebui s&#259; poate fi f&#259;cute cu orice client FTP.</p>
+		<ol>
+			<li>Deschide&#355;i clientul FTP &#351;i conecta&#355;i-v&#259; la serverul vostru.</li>
+			<li>Naviga&#355;i cu clientul FTP la folderul de pe serverul vostru &#238;n care a&#355;i instalat MyBB.</li>
+			<li>Naviga&#355;i la folderul numit <span class="folder">inc</span>, iar apoi la folderul <span class="folder">languages</span> (g&#259;sit &#238;n <span class="folder">inc</span>). &#206;n folderul <span class="folder">languages</span> ar trebui s&#259; vede&#355;i un folder numit <span class="folder">english</span> &#351;i un fi&#351;ier numit <span class="file">english.php</span>.</li>
+			<li>Copia&#355;i fi&#351;ierul <span class="file">romanian.php</span> &#351;i folderul <span class="folder">romanian</span> de pe calculatorul vostru &#238;n folderul <span class="folder">languages</span> de pe server.</li>
+		</ol>
+		<p>Acum a&#355;i &#238;nc&#259;rcat toate fi&#351;ierele necesare pe server. Citi&#355;i urmatoarele paragrafe pentru mai multe informa&#355;ii despre cum s&#259; activa&#355;i limba rom&#226;n&#259; pe forumul vostru.</p>
+		<br />
+
+		<a name="usage"></a>
+		<h2>Utilizare</h2>
+		<p>Dupa ce a&#355;i &#238;nc&#259;rcat fi&#351;ierele necesare, pute&#355;i folosi traducerea &#238;n limba rom&#226;n&#259; pentru copia voastr&#259; de MyBB. Vom vedea &#238;n continuare cum s&#259; folosi&#355;i limba romana pentru forumul vostru &#351;i pentru partea de administrare a forumului &#351;i cum s&#259; seta&#355;i limba rom&#226;n&#259; ca &#351;i limba implicit&#259; pentru forumul vostru. Limba implicit&#259; va fi folosit&#259; de vizitatori &#351;i utilizatorii care nu &#351;i-au setat o preferin&#355;&#259; pentru limba &#238;n care s&#259; foloseasc&#259; forumul.</p>
+		<ul>
+			<li>Pentru a folosi limba rom&#226;n&#259; pentru forum, utilizatorul ar trebui s&#259; mearg&#259; la <i>User CP</i> &#351;i s&#259; dea click pe Edit <i>Options</i>. Acolo poate selecta limba rom&#226;n&#259; ca <b>Board Language</b> aflat&#259; sub <i>Other options</i>.</li>
+			<li>Pentru a seta limba rom&#226;n&#259; ca &#351;i limba implicit&#259; pentru forumul vostru, administratorul trebuie s&#259; acceseze <i>Admin CP</i>, s&#259; intre &#238;n tab-ul <i>Configuration</i> &#351;i s&#259; acceseze grupul de set&#259;ri <i>General Configuration</i>. Op&#355;iunea <b>Default Language</b> se va afla acolo.</li>
+			<li>Pentru a folosi limba romana &#238;n partea de administra&#355;ie a forumului, administratorul trebuie s&#259; acceseze <i>Admin CP</i>, s&#259; intre &#238;n tab-ul <i>Configuration</i> &#351;i s&#259; acceseze grupul de set&#259;ri <i>Control Panel Preferences (Global)</i>. Op&#355;iunea <b>Control Panel Language</b> se va afla acolo.</li>
+		</ul>
+		<br />
+
+		<a name="additional_info"></a>
+		<h2>Informa&#355;ii adi&#355;ionale</h2>
+		<p>Daca dori&#355;i s&#259; contacta&#355;i autorii acestei traduceri, v&#259; rug&#259;m s&#259; vizita&#355;i comunitatea <a href="http://mybb.ro/">MyBB Rom&#226;nia</a>.</p>
+	</div>
+	<div id="footer">
+		<p>
+			Copyright &copy; 2016 <a href="http://mybb.ro/">MyBB Rom&#226;nia</a>. Toate drepturile rezervate.
+		</p>
+	</div>
+</div>
+</body>
+</html>

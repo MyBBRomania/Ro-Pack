@@ -4,7 +4,7 @@
  * Copyright 2014 MyBB Romania, Toate drepturile rezervate.
  *
  */
- 
+
 $l['banning'] = "Suspendare...";
 $l['banned_ips'] = "IP-uri suspendate";
 $l['banned_ips_desc'] = "Aici pute&#355;i gestiona adresele IP care sunt interzise de la accesarea forumului.";
@@ -16,7 +16,6 @@ $l['disallowed_email_addresses_desc'] = "Aici ve&#355;i gestiona o list&#259; de
 
 $l['banned_ip_addresses'] = "Adrese IP suspendate";
 $l['username'] = "Nume de utilizator";
-$l['search_user'] = "Caut&#259; un utilizator";
 $l['date_disallowed'] = "Data nepermis&#259;";
 $l['last_attempted_use'] = "Ultima &#238;ncercare de utilizare";
 $l['email_address'] = "Adres&#259; de e-mail";
@@ -44,4 +43,3 @@ $l['success_email_disallowed'] = "Adresa de e-mail specificat&#259; a fost inter
 $l['success_ban_deleted'] = "Interdic&#355;ia specificat&#259; a fost &#351;tears&#259; cu succes.";
 
 $l['confirm_ban_deletion'] = "Sunte&#355;i sigur c&#259; dori&#355;i s&#259; &#351;terge&#355;i aceast&#259; interdic&#355;ie?";
-

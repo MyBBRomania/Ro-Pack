@@ -92,7 +92,6 @@ $l['thread_unapproved_post_count'] = "Acum este un mesaj neaprobat &#238;n acest
 $l['page_selected'] = "Toate <strong>{1}</strong> subiectele din aceast&#259; pagin&#259; sunt selectate.";
 $l['all_selected'] = "Toate <strong>{1}</strong> subiectele din acest forum sunt selectate.";
 $l['select_all'] = "Selecteaz&#259; toate <strong>{1}</strong> subiectele din acest forum.";
-$l['clear_selection'] = "Deselecteaz&#259;.";
-$l['error_containsnoforums'] = "Ne pare r&#259;u dar forumul pe care &#238;l vizitezi acum nu con&#355;ine niciun subforum.";
-$l['inline_edit_description'] = '(Apasă şi ţine apăsat clic pentru a edita)';
-
+$l['clear_selection'] = "Deselecteaz&#259;.";
+$l['error_containsnoforums'] = "Ne pare r&#259;u dar forumul pe care &#238;l vizitezi acum nu con&#355;ine niciun subforum.";
+$l['inline_edit_description'] = '(Apasă şi ţine apăsat clic pentru a edita)';

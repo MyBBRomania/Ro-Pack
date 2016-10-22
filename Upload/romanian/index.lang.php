@@ -38,4 +38,4 @@ $l['online_anon_singular'] = "este";
 $l['online_guest_plural'] = "musafiri";
 $l['online_guest_singular'] = "musafir";
 $l['online_note'] = "{1} {2} activi &#238;n ultimele {3} minute ({4} {5} din care {6} {7} invizibili si {8} {9}).";
-$l['subforums'] = "<strong>Subforumuri:</strong>";
+$l['subforums'] = "Subforumuri:";

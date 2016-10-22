@@ -114,6 +114,7 @@ $l['group_xmlhttp'] = "XMLHTTP";
 $l['group_footer'] = "Footer";
 $l['group_video'] = "Video MyCode";
 $l['group_sendthread'] = "Send Thread";
+$l['group_mycode'] = "MyCode";
 
 $l['expand'] = "Extinde";
 $l['collapse'] = "Restr&#226;nge";
@@ -150,8 +151,8 @@ $l['no_updated_templates'] = "Nu exist&#259; &#351;abloane care au fost schimbat
 
 $l['confirm_template_set_deletion'] = "Sunte&#355;i sigur c&#259; dori&#355;i s&#259; &#351;terge&#355;i acest set de &#351;abloane?";
 $l['confirm_template_group_delete'] = "Sunte&#355;i sigur c&#259; dori&#355;i s&#259; &#351;terge&#355;i acest grup de &#351;abloane? Aceast&#259; ac&#355;iune nu &#351;terge &#351;abloanele care se afl&#259; &#238;n grup.";
-$l['confirm_template_deletion'] = "Sunte&#355;i sigur c&#259; dori&#355;i s&#259; &#351;terge&#355;i acest &#351;ablon?"; 
-$l['confirm_template_revertion'] = "Sunte&#355;i sigur c&#259; dori&#355;i s&#259; reveni&#355;i la versiunea prinicpal&#259;?"; 
+$l['confirm_template_deletion'] = "Sunte&#355;i sigur c&#259; dori&#355;i s&#259; &#351;terge&#355;i acest &#351;ablon?";
+$l['confirm_template_revertion'] = "Sunte&#355;i sigur c&#259; dori&#355;i s&#259; reveni&#355;i la versiunea prinicpal&#259;?";
 
 $l['error_security_problem'] = "A fost g&#259;sit p poten&#355;ial&#259; problem&#259; de securitate &#238;n &#351;ablon. V&#259; rug&#259;m s&#259; v&#259; revizui&#355;i schimb&#259;rile sau s&#259; contacta&#355;i Grupul MyBB pentru ajutor.";
 $l['error_missing_input'] = "V&#259; rug&#259;m s&#259; v&#259; asigura&#355;i c&#259; ave&#355;i toate intr&#259;rile necesare pentru editare acestui &#351;ablon (tid &#351;i sid).";

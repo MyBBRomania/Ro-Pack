@@ -4,7 +4,7 @@
  * Copyright 2014 MyBB Romania, Toate drepturile rezervate.
  *
  */
- 
+
 $l['dashboard'] = "Tablou de bord";
 $l['dashboard_description'] = "Aceasta sec&#355;iune v&#259; permite s&#259; vede&#355;i unele dintre variatele statistici despre forumul dumneavoastr&#259;. De asemenea pute&#355;i ad&#259;uga note de v&#259;zut pentru al&#355;i administratori.";
 
@@ -52,4 +52,3 @@ $l['admin_notes'] = "Note administratori";
 $l['save_notes'] = "Salveaz&#259; note";
 
 $l['success_notes_updated'] = "Notele pentru administratori au fost actualizate cu succes.";
-

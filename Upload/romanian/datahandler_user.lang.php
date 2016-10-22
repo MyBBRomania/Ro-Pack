@@ -42,3 +42,8 @@ $l['userdata_invalid_checkfield'] = "S-a detectat c&#259; acest formular a fost 
 $l['userdata_invalid_postnum'] = "Num&#259;rul de mesaje introdus este invalid. V&#259; rug&#259;m introduce&#355;i un num&#259;r de mesaje valid, sau lasa&#355;i c&#226;mpul gol.";
 $l['userdata_invalid_threadnum'] = "Num&#259;rul de subiecte introdus este invalid. V&#259; rug&#259;m introduce&#355;i un num&#259;r de subiecte valid, sau lasa&#355;i c&#226;mpul gol.";
 
+$l['userdata_too_many_sig_images'] = "Ne pare r&#259;u, dar semn&#259;tura nu a putut fi actualizat&#259; deoarece con&#355;ine prea multe imagini. V&#259; rug&#259;m s&#259; &#351;terge&#355;i c&#226;teva dintre imagini pentru a continua.";
+$l['userdata_too_many_sig_images2'] = "<strong>Not&#259;:</strong> Num&#259;rul maxim de imagini pentru semn&#259;tur&#259; este {1}.";
+$l['userdata_sig_too_long'] = "Semn&#259;tura nu a putut fi actualizat&#259; deoarece este prea lung&#259;. Lungimea maxim&#259; pentru semn&#259;tur&#259; este de {1} caractere.";
+$l['userdata_sig_remove_chars_plural'] = "V&#259; rug&#259;m s&#259; &#351;terge&#355;i {1} caractere &#351;i s&#259; re&#238;ncerca&#355;i.";
+$l['userdata_sig_remove_chars_singular'] = "V&#259; rug&#259;m s&#259; &#351;terge&#355;i 1 caracter &#351;i s&#259; re&#238;ncerca&#355;i.";

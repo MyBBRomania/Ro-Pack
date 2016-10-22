@@ -4,7 +4,7 @@
  * Copyright 2014 MyBB Romania, Toate drepturile rezervate.
  *
  */
- 
+
 $l['configuration'] = "Configurare";
 
 $l['bbsettings'] = "Set&#259;ri";
@@ -24,6 +24,7 @@ $l['calendars'] = "Calendare";
 $l['warning_system'] = "Sistem de avertizare";
 $l['thread_prefixes'] = "Prefixe subiecte";
 $l['security_questions'] = "&#206;ntreb&#259;ri de securitate";
+$l['report_reasons'] = "Motivele Raport&#259;rii";
 
 $l['can_manage_settings'] = "Poate administra set&#259;ri ale forumului?";
 $l['can_manage_banned_accounts'] = "Poate administra conturile userilor bana&#355;i de pe forum?";
@@ -42,4 +43,4 @@ $l['can_manage_warning_system'] = "Poate administra sistemul de avertiz&#259;ri?
 $l['can_manage_mod_tools'] = "Poate administra instrumentele specifice moderatorilor?";
 $l['can_manage_thread_prefixes'] = "Poate administra prefixele subiectelor?";
 $l['can_manage_security_questions'] = "Poate administra &#238;ntreb&#259;rile de securitate?";
-
+$l['can_manage_report_reasons'] = "Poate gestiona motivele raport&#259;rii?";

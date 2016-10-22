@@ -43,6 +43,7 @@ $l['note_logs_locked'] = "Din motive de securitate, jurnalele mai vechi de 24 de
 $l['admin_log_config_attachment_types_add'] = "Fi&#351;iere ata&#351;ate: A ad&#259;ugat extensia  #{1} ({2})";
 $l['admin_log_config_attachment_types_edit'] = "Fi&#351;iere ata&#351;ate: A modificat extensia #{1} ({2})";
 $l['admin_log_config_attachment_types_delete'] = "Fi&#351;iere ata&#351;ate: A &#351;ters extensia #{1} ({2})";
+$l['admin_log_config_attachment_types_toggle_status'] = "A schimbat starea ata&#351;amentului #{1} ({2})";
 
 $l['admin_log_config_badwords_add'] = "Filtru cuvinte: A ad&#259;ugat filtrul #{1} ({2})";
 $l['admin_log_config_badwords_edit'] = "Filtru cuvinte: A modificat filtrul #{1} ({2})";
@@ -59,7 +60,7 @@ $l['admin_log_config_calendars_add'] = "A ad&#259;ugat un Calendar #{1} ({2})";
 $l['admin_log_config_calendars_permissions'] = "A modificat permisiunile pentru un Calendar #{1} ({2})";
 $l['admin_log_config_calendars_edit'] = "A modificat un Calendar #{1} ({2})";
 $l['admin_log_config_calendars_delete'] = "A &#351;ters un Calendar #{1} ({2})";
-$l['admin_log_config_calendars_update_orders'] = "A actualizat ordinea de afi&#351;are a Calendarelor";
+$l['admin_log_config_calendars_update_order'] = "A actualizat ordinea de afi&#351;are a calendarelor";
 
 $l['admin_log_config_help_documents_add_section'] = "A ad&#259;ugat o sec&#355;iune de ajutor #{1} ({2})";
 $l['admin_log_config_help_documents_add_document'] = "A ad&#259;ugat un document de ajutor  #{1} ({2})";
@@ -105,6 +106,10 @@ $l['admin_log_config_questions_edit'] = "A editat &#238;ntrebarea #{1} ({2})";
 $l['admin_log_config_questions_delete'] = "A &#351;ters &#238;ntrebarea #{1} ({2})";
 $l['admin_log_config_questions_enable'] = "A activat &#238;ntrebarea #{1} ({2})";
 $l['admin_log_config_questions_disable'] = "A dezactivat &#238;ntrebarea #{1} ({2})";
+
+$l['admin_log_config_report_reasons_add'] = "A ad&#259;ugat motivul de raportare #{1} ({2})";
+$l['admin_log_config_report_reasons_edit'] = "A editat motivul de raportare #{1} ({2})";
+$l['admin_log_config_report_reasons_delete'] = "A &#351;ters motivul de raportare #{1} ({2})";
 
 $l['admin_log_config_settings_delete_duplicates'] = "A &#351;ters set&#259;rile &#351;i grupurile de set&#259;ri duplicate";
 $l['admin_log_config_settings_addgroup'] = "A ad&#259;ugat un grup de set&#259;ri #{1} ({2}) ";
@@ -228,7 +233,7 @@ $l['admin_log_tools_recount_rebuild_thread'] = "A renum&#259;rat &#351;i regener
 $l['admin_log_tools_recount_rebuild_poll'] = "A renum&#259;rat &#351;i regenerat voturile chestionarului";
 $l['admin_log_tools_recount_rebuild_userposts'] = "A renum&#259;rat &#351;i regenerat contoarele mesajelor";
 $l['admin_log_tools_recount_rebuild_userthreads'] = "A renum&#259;rat &#351;i regenerat contoarele subiectelor";
-$l['admin_log_tools_recount_rebuild_attachmentthumbs'] = "A regenerat pictogramele fi&#351;ierelor ata&#351;ate"; 
+$l['admin_log_tools_recount_rebuild_attachmentthumbs'] = "A regenerat pictogramele fi&#351;ierelor ata&#351;ate";
 $l['admin_log_tools_recount_rebuild_reputation'] = "A renum&#259;rat &#351;i regenerat reputa&#355;ia utilizatorilor";
 $l['admin_log_tools_recount_rebuild_warning'] = "A renum&#259;rat &#351;i regenerat punctele de avertizare";
 $l['admin_log_tools_recount_rebuild_privatemessages'] = "A renum&#259;rat &#351;i regenerat mesajele private";
@@ -289,8 +294,6 @@ $l['admin_log_user_users_inline_banned_temp'] = "A suspendat {1} utilizator(i) p
 $l['admin_log_user_users_inline_activated'] = "A activat {1} utilizator(i)";
 $l['admin_log_user_users_inline_lift'] = "A ridicat suspendarea pentru {1} utilizator(i)";
 
-$l['admin_log_user_mass_mail_delete'] = "A &#351;ters un buletin de informa&#355;ii #{1} ({2})"; 
- 
+$l['admin_log_user_mass_mail_delete'] = "A &#351;ters un buletin de informa&#355;ii #{1} ({2})";
+
 $l['admin_log_admin_locked_out'] = '&#206;ncercare de autentificare drept Administrator pentru utilizatorul #{1} ({2}) blocat&#259;.';
-
-

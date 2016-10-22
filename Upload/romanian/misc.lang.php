@@ -31,7 +31,7 @@ $l['buddy_list'] = "List&#259; prieteni";
 $l['online'] = "Online";
 $l['online_none'] = "<em>Nu aveti niciun prieten online</em>";
 $l['offline'] = "Offline";
-$l['online_none'] = "<em>Nu aveti niciun prieten offline</em>";
+$l['offline_none'] = "<em>Nu aveti niciun prieten offline</em>";
 $l['delete_buddy'] = "X";
 $l['pm_buddy'] = "Trimite Mesaj Privat";
 $l['last_active'] = "<strong>Ultima dat&#259; activ:</strong> {1}";
@@ -58,6 +58,7 @@ $l['name'] = "Nume";
 $l['abbreviation'] = "Abreviere";
 $l['click_to_add'] = "Clic pe emoticon pentu a-l introduce &#238;n mesaj";
 $l['close_window'] = "&#238;nchide fereastra";
+$l['no_smilies'] = "Nu sunt emoticonuri disponibile.";
 
 $l['who_posted'] = "Cine a postat?";
 $l['total_posts'] = "Num&#259;r total de mesaje:";
