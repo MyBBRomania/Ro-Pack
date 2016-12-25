@@ -122,6 +122,7 @@ $l['can_edit_posts'] = "&#206;&#351;i poate modifica mesajele?";
 $l['can_delete_posts'] = "&#206;&#351;i poate &#351;terge mesajele?";
 $l['can_delete_threads'] = "Poate &#351;terge subiectele de discu&#355;ie proprii?";
 $l['can_edit_attachments'] = "&#206;&#351;i poate actualiza fi&#351;ierele ata&#351;ate?";
+$l['can_view_deletion_notices'] = "Poate vedea notific&#259;rile de &#351;tergere?";
 $l['account_management'] = "Administrarea contului";
 $l['edit_time_limit'] = "Timp limit&#259; de editare";
 $l['edit_time_limit_desc'] = "Num&#259;rul de minute p&#226;n&#259; c&#226;nd utilizatorii normali &#238;&#351;i pot edita propriile mesaje (Dac&#259; au permisiunea). Introduce&#355;i 0 (zero) dac&#259; nu dori&#355;i limit&#259;.";
@@ -219,4 +220,3 @@ $l['success_group_leader_deleted'] = "Managerul selectat a fost &#238;nl&#259;tu
 
 $l['confirm_group_deletion'] = "E&#351;ti sigur c&#259; dore&#351;ti &#351;tergerea acestui grup?";
 $l['confirm_group_leader_deletion'] = "E&#351;ti sigur c&#259; dore&#351;ti &#351;tergerea acestui manager de grup?";
-

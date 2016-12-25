@@ -185,6 +185,8 @@ Acest mesaj a fost trimis catre toti moderatorii, administratorii si super moder
 
 Va rugam sa verificati aceasta reputatie cat mai repede cu putinta.";
 
+$l['email_report_comment_extra'] = "{1}: {2}";
+
 $l['email_passwordreset'] = "{1},
 
 Parola contului {2} a fost resetat&#259;.

@@ -35,7 +35,7 @@ $l['edit_group'] = "Modific&#259; grup";
 $l['default'] = "Standard";
 $l['group'] = "Grup";
 
-$l['error_delete_super_admin'] = 'Ne pare r&#259;u, &#238;ns&#259;  nu po&#355;i realiza aceast&#259; ac&#355;iune deoarece nu e&#351;ti un super administrator.<br /><br />Pentru a putea realiza aceast&#259; ac&#355;iune trebuie s&#259; &#238;&#355;i completezi ID-ul pe lista de super admini din fi&#351;ierul inc/config.php.';
+$l['error_super_admin'] = 'Ne pare r&#259;u, dar nu pute&#355;i realiza aceast&#259; ac&#355;iune pe utilizatorul specificat deoarece este un super administrator.';
 $l['error_delete_no_uid'] = 'Nu ai selectat niciun set pentru &#351;tergere.';
 $l['error_delete_invalid_uid'] = 'Datele furnizate sunt nevalide.';
 
@@ -43,4 +43,3 @@ $l['success_perms_deleted'] = 'Administratorul a revocat permisiunile utilizator
 
 $l['confirm_perms_deletion'] = "E&#351;ti sigur c&#259; dore&#351;ti s&#259; revoci aceste permisiuni?";
 $l['confirm_perms_deletion2'] = "E&#351;ti sigur c&#259; dore&#351;ti s&#259; revoci permisiunile acestui utilizator?";
-

@@ -301,6 +301,7 @@ $l['attachstats_totaldl'] = "Num&#259;r total de desc&#259;rc&#259;ri";
 $l['attachstats_bandwidth'] = "L&#259;&#355;ime de band&#259; folosit&#259; cu aproxima&#355;ie";
 $l['error_avatartoobig'] = "Ne pare r&#259;u, dar nu v&#259; putem schimba avatarul deoacere avatarul nou este prea mare. Dimensiunile maxime sunt {1}x{2} (l&#259;&#355;ime x &#238;n&#259;l&#355;ime)";
 $l['error_invalidavatarurl'] = "URL-ul introdus pentru avatar este invalid. V&#259; rug&#259;m verifica&#355;i ca URL-ul s&#259; fie corect.";
+$l['error_remote_avatar_not_allowed'] = "Avatarele de pe site-uri externe au fost dezactivate de c&#259;tre administrator.";
 $l['custom_usertitle'] = "Titlu utilizator personalizat";
 $l['new_custom_usertitle'] = "Titlu utilizator personalizabil nou: (las&#259; liber pentru al folosi pe cel existent)";
 $l['custom_usertitle_note'] = "Aici v&#259; pute&#355;i asocia un titlu de utilizator personalizat care vi-l suprascrie pe cel bazat pe grupul de afi&#351;are.";

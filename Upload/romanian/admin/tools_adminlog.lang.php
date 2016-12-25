@@ -247,6 +247,9 @@ $l['admin_log_tools_tasks_enable'] = "A activat o sarcin&#259; #{1} ({2})";
 $l['admin_log_tools_tasks_disable'] = "A &#351;ters o sarcin&#259; #{1} ({2})";
 $l['admin_log_tools_tasks_run'] = "A executat o sarcin&#259; #{1} ({2})";
 
+$l['admin_log_user_awaiting_activation_activate_activated'] = "Au fost activate {2} conturi de utilizatori";
+$l['admin_log_user_awaiting_activation_activate_deleted'] = "Au fost &#351;terse {2} conturi de utilizatori";
+
 $l['admin_log_user_admin_permissions_delete_user'] = "A &#351;ters permisiunile de administrare pentru utilizatorul #{1} ({2})";
 $l['admin_log_user_admin_permissions_delete_group'] = "A &#351;ters permisiunile de administrare pentru grupul de utilizatori #{1} ({2})";
 $l['admin_log_user_admin_permissions_edit_user'] = "A modificat permisiunile de administrare pentru utilizatorul #{1} ({2})";

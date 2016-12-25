@@ -50,7 +50,6 @@ $l['error_admin_session_expired'] = "Sesiunea dvs. de administrare a expirat";
 $l['error_invalid_ip'] = "Adresa dvs. IP nu este valid&#259; pentru aceast&#259; sesiune";
 $l['error_mybb_admin_lockedout'] = "Acest cont a fost blocat";
 $l['error_mybb_admin_lockedout_message'] = "Contul dvs. este momentan blocat datorit&#259; e&#351;uarii a {1} incerc&#259;ri invalide de autentificare. V-a fost trimis un e-mail cu instruc&#355;iunile necesare debloc&#259;rii contului.";
-$l['error_invalid_secret_pin'] = 'A&#355;i introdus un PIN invalid.';
 
 $l['error_invalid_username'] = "Numele de utilizator introdus este invalid.";
 $l['error_invalid_uid'] = "ID-ul de utilizator introdus este invalid.";
@@ -201,7 +200,7 @@ $l['timezone_gmt_350'] = "(GMT +3:30) Tehran";
 $l['timezone_gmt_400'] = "(GMT +4:00) Moscow, Abu Dhabi, Baku, Muscat, Tbilisi";
 $l['timezone_gmt_450'] = "(GMT +4:30) Kabul";
 $l['timezone_gmt_500'] = "(GMT +5:00) Islamabad, Karachi, Tashkent";
-$l['timezone_gmt_550'] = "(GMT +5:30) Mumbai, Calcutta, Madras, New Delhi";
+$l['timezone_gmt_550'] = "(GMT +5:30) Mumbai, Kolkata, Chennai, New Delhi";
 $l['timezone_gmt_575'] = "(GMT +5:45) Kathmandu";
 $l['timezone_gmt_600'] = "(GMT +6:00) Almaty, Dhakra, Yekaterinburg";
 $l['timezone_gmt_650'] = "(GMT +6:30) Yangon";

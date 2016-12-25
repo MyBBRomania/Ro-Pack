@@ -88,6 +88,7 @@ $l['option_6'] = "Mai vechi de 2 ani";
 
 $l['error_avatartoobig'] = "Ne pare r&#259;u, &#238;ns&#259; nu &#238;&#355;i putem schimba avatarul &#238;ntruc&#226;t noul avatar specificat este prea mare. Dimensiunile maxime admise sunt {1}x{2} (l&#259;&#355;ime x &#238;n&#259;l&#355;ime)";
 $l['error_invalidavatarurl'] = "Adresa URL completat&#259; pentru avatar nu pare s&#259; fie valid&#259;. Te rug&#259;m s&#259; te asiguri ca introduci o adres&#259; valid&#259;.";
+$l['error_remote_avatar_not_allowed'] = "Avatarele de pe site-uri externe au fost dezactivate de c&#259;tre administrator.";
 $l['error_invalid_user'] = "Ai selectat un utilizator nevalid.";
 $l['error_no_perms_super_admin'] = "Nu ai permisiunea s&#259; modifici acest utilizator &#238;ntruc&#226;t nu e&#351;ti un super administrator.";
 $l['error_invalid_user_source'] = "Contul-surs&#259; men&#355;ionat nu exist&#259;.";

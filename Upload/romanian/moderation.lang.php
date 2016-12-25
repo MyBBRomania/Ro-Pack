@@ -81,6 +81,7 @@ $l['post_separator'] = "Separator Mesaje";
 $l['new_line'] = "Linie nou&#259;";
 $l['horizontal_rule'] = "Linie Orizontal&#259;";
 $l['resolve_fail'] = "N/A (Nu s-a putut rezolva)";
+$l['time'] = "Timp:";
 
 $l['opened'] = "Deschis";
 $l['closed'] = "&#206;nchis";

@@ -263,6 +263,7 @@ $l['editing_field_caneditposts'] = "Poate edita propriile mesaje?";
 $l['editing_field_candeleteposts'] = "Poate &#351;terge propriile mesaje?";
 $l['editing_field_candeletethreads'] = "Poate &#351;terge propriile subiecte?";
 $l['editing_field_caneditattachments'] = "Poate actualiza propriile ata&#351;amente?";
+$l['editing_field_canviewdeletionnotice'] = "Poate vedea notificarile de stergere?";
 
 $l['moderate_field_modposts'] = "Modereaz&#259; noile mesaje?";
 $l['moderate_field_modthreads'] = "Modereaz&#259; noile subiecte?";
@@ -274,3 +275,5 @@ $l['polls_field_canvotepolls'] = "Poate vota &#238;n chestionare?";
 
 $l['misc_field_cansearch'] = "Poate c&#259;uta &#238;n forum?";
 
+$l['confirm_proceed_deletion'] = "Ap&#259;sati pe butonul \"Mai departe\" pentru a continua cu &#351;tergerea forumului.";
+$l['automatically_redirecting'] = "Redirec&#355;ionare Automat&#259;...";

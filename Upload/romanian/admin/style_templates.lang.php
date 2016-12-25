@@ -164,6 +164,7 @@ $l['error_invalid_set'] = "V&#259; rug&#259;m s&#259; alege&#355;i un set de &#3
 $l['error_invalid_template_set'] = "V&#259; rug&#259;m s&#259; alege&#355;i un set de &#351;abloane valid.";
 $l['error_themes_attached_template_set'] = "Acest &#351;ablon nu poate fi &#351;ters din moment ce exist&#259; teme ata&#351;ate acestuia.";
 $l['error_missing_group_prefix'] = "V&#259; rug&#259;m s&#259; introduce&#355;i un prefix pentru grupul de &#351;abloane.";
+$l['error_invalid_group_title'] = "Deoarece caracterul underscore (_) este folosit ca &#351;i separator, este interzis&#259; utilizarea acestuia &#238;n prefixele grupurilor de &#351;abloane. V&#259; rug&#259;m s&#259; alege&#355;i un alt prefix.";
 $l['error_missing_group_title'] = "V&#259; rug&#259;m s&#259; introduce&#355;i un titlu pentru grupul de &#351;abloane.";
 $l['error_duplicate_group_prefix'] = "Exist&#259; deja un grup de &#351;abloane cu acest prefix. V&#259; rug&#259;m s&#259; introduce&#355;i un alt prefix.";
 $l['error_missing_template_group'] = "Grupul de &#351;abloane nu a fost g&#259;sit.";
