@@ -19,6 +19,7 @@ $l['bottomlinks_contactus'] = "Contacteaz&#259;-ne";
 $l['bottomlinks_returntop'] = "Re&#238;ntoarce-te Sus";
 $l['bottomlinks_syndication'] = "RSS Syndication";
 $l['bottomlinks_litemode'] = "Mod (Arhiv&#259;) U&#351;or";
+$l['bottomlinks_markread'] = "Marcheaz&#259; toate forumurile ca fiind citite";
 
 $l['welcome_usercp'] = "PC Membru";
 $l['welcome_modcp'] = "PC Mod";

@@ -13,7 +13,6 @@ $l['forum_unapproved_posts_count'] = "Acum sunt {1} mesaje neaprobate &#238;n ac
 $l['forum_unapproved_post_count'] = "Acum este un mesaj neaprobat &#238;n acest forum.";
 $l['forum_unapproved_threads_count'] = "Acum sunt {1} subiecte neaprobate &#238;n acest forum.";
 $l['forum_unapproved_thread_count'] = "Acum este un subiect neaprobat &#238;n acest forum.";
-$l['markread'] = "Marcheaz&#259; toate forumurile ca &#351;i citite";
 $l['forumteam'] = "Echipa Forumului";
 $l['forumstats'] = "Statistici Forum";
 $l['todays_birthdays'] = "Zilele de na&#351;tere de ast&#259;zi";
