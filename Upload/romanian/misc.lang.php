@@ -71,7 +71,7 @@ $l['error_invalid_limit'] = "Limita pentru elemente feed introdus&#259; este inv
 
 $l['syndication'] = "Ultimele Subiecte Syndicat";
 $l['syndication_generated_url'] = "URL-ul t&#259;u de Syndicat:";
-$l['syndication_note'] = "Mai jos po&#355;i genera linkuri spre feeduri RSS specifice. Linkurile pot fi generate pentru foate forumurile, pe forum, sau pe un num&#259;r specific de forumuri. Apoi vei avea un link pe care &#238;l po&#355;i copia &#238;ntr-un cititor RSS a&#351;a c&#259; <a href=\"http://www.sharpreader.net/\">SharpReader</a>. <i><a href=\"http://www.xml.com/pub/a/2002/12/18/dive-into-xml.html\">Ce este RSS?</a></i>";
+$l['syndication_note'] = "Mai jos po&#355;i genera linkuri spre feeduri RSS specifice. Linkurile pot fi generate pentru foate forumurile, pe forum, sau pe un num&#259;r specific de forumuri. Apoi vei avea un link pe care &#238;l po&#355;i copia &#238;ntr-un cititor RSS. <i><a href=\"http://en.wikipedia.org/wiki/RSS\" target=\"_blank\">Ce este RSS?</a></i>";
 $l['syndication_forum'] = "Forumul pentru Syndicate:";
 $l['syndication_forum_desc'] = "V&#259; rug&#259;m selecta&#355;i un forum din dreapta. Folosi&#355;i tasta CTRL pentru a selecta forumuri multiple.";
 $l['syndication_version'] = "Versiune Feed:";

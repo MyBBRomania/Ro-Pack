@@ -222,6 +222,8 @@ $l['admin_log_tools_index_utf8_conversion'] = "A convertit tabela {1} la formatu
 
 $l['admin_log_tools_mailerrors_prune'] = "A golit {1} erori e-mail din jurnal";
 
+$l['admin_log_tools_maillogs_prune'] = "A golit {1} &#238;nregist&#259;ri din jurnal legate de email";
+
 $l['admin_log_tools_optimizedb_'] = "A optimizat tabelele: {1}";
 
 $l['admin_log_tools_php_info_phpinfo'] = "A vizualizat Info PHP";
@@ -239,6 +241,11 @@ $l['admin_log_tools_recount_rebuild_warning'] = "A renum&#259;rat &#351;i regene
 $l['admin_log_tools_recount_rebuild_privatemessages'] = "A renum&#259;rat &#351;i regenerat mesajele private";
 $l['admin_log_tools_recount_rebuild_referral'] = "A renum&#259;rat &#351;i regenerat contorul utilizatorilor &#238;ndruma&#355;i";
 $l['admin_log_tools_recount_rebuild_threadrating'] = "A renum&#259;rat &#351;i regenerat evalu&#259;rile subiectelor";
+
+$l['admin_log_tools_spamlog_prune'] = "A golit {4} &#238;nregistr&#259;ri despre spam mai vechi de {1} zile";
+$l['admin_log_tools_spamlog_prune_user'] = "A golit {4} &#238;nregistr&#259;ri despre spam mai vechi de {1} zile cu numele de utlizator {2}";
+$l['admin_log_tools_spamlog_prune_email'] = "A golit {4} &#238;nregistr&#259;ri despre spam mai vechi de {1} zile cu email-ul {3}";
+$l['admin_log_tools_spamlog_prune_user_email'] = "A golit {4} &#238;nregistr&#259;ri despre spam mai vechi de {1} zile cu numele de utlizator {2} &#351;i email-ul {3}";
 
 $l['admin_log_tools_tasks_add'] = "A ad&#259;ugat o sarcin&#259; nou&#259; #{1} ({2})";
 $l['admin_log_tools_tasks_edit'] = "A modificat o sarcin&#259; #{1} ({2})";

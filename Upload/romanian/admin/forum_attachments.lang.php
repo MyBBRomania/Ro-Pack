@@ -19,6 +19,7 @@ $l['attachment_stats_desc'] = "Mia jos se afl&#259; ni&#351;te statistici genera
 $l['error_nothing_selected'] = "V&#259; rug&#259;m s&#259; selecta&#355;i unul sau mai multe ata&#351;amente pentru &#351;tergere.";
 $l['error_no_attachments'] = "Nu se afl&#259; niciun ata&#351;ament pe forumul dumneavoastr&#259; &#238;nc&#259;. Odat&#259; ce un ata&#351;ament este postat, ve&#355;i fi capabil s&#259; accesa&#355;i aceat&#259; sec&#355;iune.";
 $l['error_not_all_removed'] = "Doar unele ata&#351;amente orfane au fost &#351;terse cu succes, celelalte nu au putut fi &#351;terse din dosarul uploads.";
+$l['error_count'] = 'Nu au putut fi &#351;terse {1} ata&#351;amente.';
 $l['error_invalid_username'] = "Numele de utilizator introdus este invalid.";
 $l['error_invalid_forums'] = "Unul sau mai multe forumuri selectate sunt invalide.";
 $l['error_no_results'] = "Niciun ata&#351;ament nu a fost g&#259;sit la c&#259;utarea dup&#259; criteriile specificate.";
@@ -28,7 +29,8 @@ $l['error_does_not_exist'] = "Subiectul sau mesajul care con&#355;ineau acest at
 
 // Success
 $l['success_deleted'] = "Ata&#351;amentele selectat au fost &#351;terse cu succes.";
-$l['success_orphan_deleted'] = "Ata&#351;amentele orfane selectat au fost &#351;terse cu succes.";
+$l['success_orphan_deleted'] = "Ata&#351;amentele orfane selectate au fost &#351;terse cu succes.";
+$l['success_count'] = '{1} ata&#351;amente &#351;terse cu succes.';
 $l['success_no_orphans'] = "Nu exist&#259; niciun ata&#351;ament orfan pe forumul dumneavoastr&#259;.";
 
 // Confirm
@@ -104,4 +106,3 @@ $l['in'] = "&#238;n";
 $l['button_delete_orphans'] = "&#350;terge orfanele selectate";
 $l['button_delete_attachments'] = "&#350;terge ata&#351;amentele selectate";
 $l['button_find_attachments'] = "G&#259;se&#351;te ata&#351;amente";
-

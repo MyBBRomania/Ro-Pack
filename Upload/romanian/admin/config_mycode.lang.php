@@ -43,6 +43,7 @@ $l['test'] = "Test MyCode";
 
 $l['error_missing_title'] = "Nu a&#539;i introdus un titlu.";
 $l['error_missing_regex'] = "Nu a&#539;i introdus o expresie.";
+$l['error_regex_already_available'] = "A&#355;i introdus o expresie regulat&#259; care este deja definit&#259; &#238;ntr-un alt MyCode. V&#259; rug&#259;m s&#259; introduce&#355;i o alt&#259; expresie regulat&#259; pentru acest MyCode.";
 $l['error_missing_replacement'] = "Nu a&#539;i introdus un &#238;nlocuitor.";
 $l['error_invalid_mycode'] = "MyCode-ul specificat nu exist&#259;.";
 
@@ -55,4 +56,3 @@ $l['success_activated_mycode'] = "MyCode-ul selectat a fost activat cu succes.";
 $l['confirm_mycode_deletion'] = "Sunte&#539;i sigur c&#259; dori&#539;i &#537;tergerea acestui MyCode?";
 
 $l['mycode_sandbox_test_error'] = 'A ap&#259;rut o eroare la preluarea rezultatelor testului.';
-

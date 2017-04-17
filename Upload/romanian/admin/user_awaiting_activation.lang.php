@@ -33,3 +33,17 @@ $l['no_users_selected'] = "Nu a&#355;i selectat niciun utilizator.";
 
 $l['success_users_deleted'] = "Utiizatorii selecta&#355;i au fost &#351;ter&#351;i.";
 $l['success_users_activated'] = "Utiizatorii selecta&#355;i au fost activa&#355;i.";
+
+$l['emailsubject_activateaccount'] = "Activare Cont pe {1}";
+$l['email_adminactivateaccount'] = "{1},
+
+Administratorul v-a activat contul pe forumul {2}.
+
+Pentru a continua, va rugam sa accesati
+
+{3}
+
+Veti fi capabili sa va logati folosind datele de la inregistrare.
+
+Va multumim,
+Echipa {2}";
