@@ -27,3 +27,4 @@ $l['my2fa_qr'] = "Codul autentific&#259;rii cu 2 pa&#351;i";
 $l['recovery_codes_desc'] = "Vede&#355;i <a href=\"index.php?module=home-preferences&amp;action=recovery_codes\">codurile de recuperare</a>.";
 $l['recovery_codes'] = "Coduri de recuperare";
 $l['recovery_codes_warning'] = "<b>Not&#259;:</b> codurile vor fi regenerate la fiecare vizit&#259; a paginii &#351;i pot fi folosite doar o dat&#259;.";
+$l['print_recovery_codes'] = "Printeaz&#259; Codurile de Recuperare";

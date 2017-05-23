@@ -94,6 +94,7 @@ $l['action'] = "Ac&#355;iune";
 $l['all_moderators'] = "To&#355;i moderatorii";
 $l['ip'] = "Adres&#259; IP";
 $l['info_on_ip'] = "Informa&#355;ii despre aceast&#259; adres&#259; IP";
+$l['search_ip_sfs']  = "Caut&#259; acest IP pe Stop Forum Spam";
 $l['information']  = "Informa&#355;ii";
 $l['filter_modlogs'] = "Filtreaz&#259; Log-urile Moderatorului";
 $l['forum'] = "Forum:";

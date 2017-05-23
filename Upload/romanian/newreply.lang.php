@@ -23,7 +23,7 @@ $l['close_thread'] = "<strong>&#206;nchide subiect</strong>: &#238;mpiedic&#259;
 $l['stick_thread'] = "<strong>Lipe&#351;te subiect:</strong> lipe&#351;te acest subiect la &#238;nceputul forumului.";
 $l['forum_rules'] = "{1} - Reguli";
 $l['thread_review'] = "Inspec&#355;ie Subiect (Cele noi primele)";
-$l['thread_review_more'] = "Acest subiect are mai mult de {1} r&#259;spunsuri. <a href=\"{2}\">Cite&#351;te &#238;ntregul subiect.</a>";
+$l['thread_review_more'] = "Acest subiect are mai mult de {1} r&#259;spunsuri. <a href=\"{2}\" target=\"_blank\">Cite&#351;te &#238;ntregul subiect.</a>";
 $l['posted_by'] = "Postat de";
 $l['draft_saved'] = "Mesajul nou a fost salvat cu succes ca ciorn&#259;.<br />Vei fi redirec&#355;ionat c&#259;tre lista de ciorne.";
 $l['error_post_already_submitted'] = "A&#355;i postat deja acest mesaj &#238;n subiectul specificat. V&#259; rug&#259;m vizualiza&#355;i subiectul pentru a v&#259; vedea mesajul.";

@@ -5,8 +5,8 @@
  *
  */
 
-$l['today'] = "Ast&#259;zi";
-$l['yesterday'] = "Ieri";
+$l['today'] = "<span title=\"{1}\">Ast&#259;zi</span>";
+$l['yesterday'] = "<span title=\"{1}\">Ieri</span>";
 
 $l['size_yb'] = "YB";
 $l['size_zb'] = "ZB";
@@ -139,7 +139,7 @@ $l['saved'] = 'Salvat';
 $l['rel_in'] = "&#206;n ";
 $l['rel_ago'] = "&#238;n urm&#259;";
 $l['rel_less_than'] = "Mai pu&#355;in de ";
-$l['rel_time'] = "{1}{2} {3} {4}";
+$l['rel_time'] = "<span title=\"{5}{6}\">{1}{2} {3} {4}</span>";
 $l['rel_minutes_single'] = "minut";
 $l['rel_minutes_plural'] = "minute";
 $l['rel_hours_single'] = "or&#259;";

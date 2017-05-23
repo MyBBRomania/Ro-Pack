@@ -16,8 +16,6 @@ $l['skype_center'] = "Centrul Skype";
 $l['chat_on_skype'] = "Discuta cu {1} pe Skype";
 $l['call_on_skype'] = "Suna-l pe {1} pe Skype";
 $l['yahoo_center'] = "Yahoo! Center";
-$l['send_y_message'] = "Trimite lui {1} un mesaj  Yahoo! Message.";
-$l['view_y_profile'] = "Vezi profilul Yahoo! al lui {1}.";
 $l['aim_center'] = "AOL IM Center";
 
 $l['download_aim'] = "Descarc&#259; AIM";
@@ -80,7 +78,7 @@ $l['syndication_version_atom1'] = "Atom 1.0";
 $l['syndication_version_rss2'] = "RSS 2.00 (Implicit)";
 $l['syndication_generate'] = "Genereaz&#259; Syndication URL";
 $l['syndication_limit'] = "Limit&#259;:";
-$l['syndication_limit_desc'] = "Num&#259;rul de subiecte de desc&#259;rcat odat&#259;. Nu este recomandat s&#259; fie peste 50.";
+$l['syndication_limit_desc'] = "Num&#259;rul de subiecte de desc&#259;rcat odat&#259;. Limita este 50.";
 $l['syndication_threads_time'] = "subiecte odat&#259;";
 $l['syndicate_all_forums'] = "Syndicate toate forumurile";
 

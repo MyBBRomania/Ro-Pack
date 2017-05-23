@@ -13,6 +13,7 @@ $l['edit_question'] = "Editeaz&#259; &#238;ntrebare";
 $l['edit_question_desc'] = "Aici pute&#355;i edita o &#238;ntrebare de securitate.";
 
 $l['options'] = "Op&#355;iuni";
+$l['shown'] = "Afi&#351;at";
 $l['correct'] = "Corect";
 $l['incorrect'] = "Incorect";
 $l['disable_question'] = "Dezactiveaz&#259; &#238;ntrebare";
@@ -38,4 +39,3 @@ $l['success_question_enabled'] = "&#206;ntrebarea a fost activat&#259; cu succes
 $l['success_question_deleted'] = "&#206;ntrebarea a fost &#351;tears&#259; cu succes.";
 
 $l['confirm_question_deletion'] = "Sunte&#355;i sigur c&#259; dori&#355;i s&#259; &#351;terge&#355;i &#238;ntrebarea?";
-

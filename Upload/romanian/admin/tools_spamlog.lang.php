@@ -25,6 +25,8 @@ $l['days'] = "zile";
 $l['filter_spam_logs'] = 'Filtreaza jurnale spam';
 $l['asc'] = "Cresc&#259;toare";
 $l['desc'] = "Descresc&#259;toare";
+$l['search_ip_on_sfs'] = "Caut&#259; acest IP pe Stop Forum Spam";
+$l['search'] = "Caut&#259;";
 
 $l['in'] = "&#238;n ordine ";
 $l['order'] = "";
