@@ -4,6 +4,7 @@
  * Copyright 2014 MyBB Romania, Toate drepturile rezervate.
  *
  */
+ 
 $l['board_settings'] = "Set&#259;ri forum";
 $l['change_settings'] = "Schimb&#259; set&#259;ri";
 $l['change_settings_desc'] = "Aceast&#259; sec&#355;iune v&#259; permite s&#259; gestiona&#355;i toate set&#259;rile forumului dumneavoastr&#259;. Pentru a &#238;ncepe, alege&#355;i un grup de mai jos pentru a modifica set&#259;rile acelui grup.";
@@ -15,6 +16,7 @@ $l['add_new_setting_group'] = "Adaug&#259; grup de set&#259;ri nou";
 $l['add_new_setting_group_desc'] = "Aceast&#259; sec&#355;iune v&#259; permite s&#259; ad&#259;uga&#355;i un grup nou de set&#259;ri pentru categorisirea set&#259;rilor individuale.";
 $l['edit_setting_group'] = "Editeaz&#259; grup de set&#259;ri";
 $l['edit_setting_group_desc'] = "Aceast&#259; sec&#355;iune v&#259; permite s&#259; edita&#355;i un grup existent de set&#259;ri.";
+
 $l['title'] = "Titlu";
 $l['description'] = "Descriere";
 $l['group'] = "Grup";
@@ -59,10 +61,13 @@ $l['update_setting_group'] = "Actualizeaz&#259; Grup setare";
 $l['modify_setting'] = "Modific&#259; setare";
 $l['search'] = "Caut&#259;";
 $l['plugin_settings'] = "Set&#259;ri pentru modific&#259;ri";
+
 $l['show_all_settings'] = "Afi&#351;eaz&#259; toate set&#259;rile";
 $l['settings_search'] = "Caut&#259; set&#259;ri";
+
 $l['confirm_setting_group_deletion'] = "Sunte&#355;i sigur c&#259; dori&#355;i s&#259; &#351;terge&#355;i acest grup de set&#259;ri?";
 $l['confirm_setting_deletion'] = "Sunte&#355;i sigur c&#259; dori&#355;i s&#259; &#351;terge&#355;i aceast&#259; setare?";
+
 $l['error_missing_title'] = "Nu a&#355;i introdus un titlu pentru aceast&#259; setare";
 $l['error_missing_group_title'] = "Nu a&#355;i introdus un titlu pentru acest grup de set&#259;ri";
 $l['error_invalid_gid'] = "Nu a&#355;i ales un grup valid &#238;n care s&#259; plasa&#355;i aceast&#259; setare";
@@ -78,7 +83,8 @@ $l['error_cannot_edit_default'] = "Set&#259;rile &#351;i grupurile implicite nu 
 $l['error_cannot_edit_php'] = "Acesta este un tip special de setare care nu poate fi editat&#259;.";
 $l['error_ajax_search'] = "A ap&#259;rut o problem&#259; la c&#259;utare pentru set&#259;ri:";
 $l['error_ajax_unknown'] = "A fost &#238;nt&#226;mpinat&#259; o eroare necunoscut&#259; &#238;n timpul c&#259;utarii pentru set&#259;ri.";
-$l['error_chmod_settings_file'] = "Fi&#351;ierul pentru set&#259;ri \"./inc/settings.php\" nu poate fi scris. V&#259; rug&#259;m s&#259; schimba&#355;i CHMOD c&#259;tre 777.<br />Pentru mai multe informa&#355;ii despre CHMOD, vede&#355;i <a href=\"http://docs.mybb.com/Chmod.html\" target=\"_blank\">MyBB Docs</a>.";
+$l['error_chmod_settings_file'] = "Fi&#351;ierul pentru set&#259;ri \"./inc/settings.php\" nu poate fi scris. V&#259; rug&#259;m s&#259; schimba&#355;i CHMOD c&#259;tre 777.<br />Pentru mai multe informa&#355;ii despre CHMOD, vede&#355;i <a href=\"http://docs.mybb.com/Chmod.html\" target=\"_blank\" rel=\"noopener\">MyBB Docs</a>.";
+
 $l['success_setting_added'] = "Setarea a fost creat&#259; cu succes.";
 $l['success_setting_updated'] = "Setarea a fost actualizat&#259; cu succes.";
 $l['success_setting_deleted'] = "Setarea aleas&#259; a fost &#351;tears&#259; cu succes.";
@@ -92,6 +98,8 @@ $l['success_setting_group_added'] = "Grupul de set&#259;ri a fost creat cu succe
 $l['success_setting_group_updated'] = "Grupul de set&#259;ri a fost actualizat cu succes.";
 $l['success_setting_group_deleted'] = "Grupul de set&#259;ri ales a fost &#351;ters cu succes.";
 $l['success_duplicate_settings_deleted'] = "Toate dublurile ale grupurilor de set&#259;ri au fost &#351;terse cu succes.";$l['searching'] = 'Se caut&#259;...';
+
 $l['searching'] = 'Se caut&#259;...';
 $l['search_error'] = 'A ap&#259;rut o eroare la preluarea rezultatelor c&#259;ut&#259;rii:';
 $l['search_done'] = 'Gata!';
+

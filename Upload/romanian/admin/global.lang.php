@@ -5,8 +5,10 @@
  *
  */
 
-$l['today'] = "<span title=\"{1}\">Ast&#259;zi</span>";
-$l['yesterday'] = "<span title=\"{1}\">Ieri</span>";
+$l['today_rel'] = "<span title=\"{1}\">Ast&#259;zi</span>";
+$l['yesterday_rel'] = "<span title=\"{1}\">Ieri</span>";
+$l['today'] = "Ast&#259;zi";
+$l['yesterday'] = "Ieri";
 
 $l['size_yb'] = "YB";
 $l['size_zb'] = "ZB";
@@ -135,6 +137,7 @@ $l['alt_disabled'] = "Dezactivat";
 $l['enable'] = "Activeaz&#259;";
 $l['disable'] = "Dezactivez&#259;";
 $l['saved'] = 'Salvat';
+$l['guest'] = 'Vizitator';
 
 $l['rel_in'] = "&#206;n ";
 $l['rel_ago'] = "&#238;n urm&#259;";

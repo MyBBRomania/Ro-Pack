@@ -87,7 +87,7 @@ $l['agreement_4'] = "Nicio informa&#355;ie oferit&#259; &#238;n acest forum nu v
 $l['agreement_5'] = "Prin continuarea procesului de &#238;nregistrare declara&#355;i c&#259; sunte&#355;i de acord cu aceste reguli &#351;i altele pe care le va preciza Administratorul.";
 $l['registration'] = "&#206;nregistrare";
 $l['required_fields'] = "C&#226;mpuri necesare";
-$l['complex_password'] = "Parola <acronym title=\"O parola care este de cel putin {1} caractere lungime si contine o litera mare, o litera mica si un numar.\">Complexa</acronym>:";
+$l['complex_password'] = "Parola <abbr title=\"O parola care este de cel putin {1} caractere lungime si contine o litera mare, o litera mica si un numar.\">Complexa</abbr>:";
 $l['confirm_email'] = "Confirm&#259; email:";
 $l['optional_fields'] = "C&#226;mpuri op&#355;ionale";
 $l['website_url'] = "Pagina ta web:";
@@ -104,7 +104,7 @@ $l['email_notify'] = "&#206;nscriere automat&#259; &#238;n subiectele &#238;n ca
 $l['receive_pms'] = "Prime&#351;te mesaje private de la al&#355;i utilizatori.";
 $l['pm_notice'] = "Anun&#355;&#259;-m&#259; cu o notificare c&#226;nd primesc un mesaj privat.";
 $l['email_notify_newpm'] = "Anun&#355;&#259; prin email primirea unui mesaj privat.";
-$l['time_offset'] = "Excludere corec&#355;ie (<acronym title=\"Ora de vara (Daylight Saving Time)\">DST</acronym> din fusul orar):";
+$l['time_offset'] = "Excludere corec&#355;ie (<abbr title=\"Ora de vara (Daylight Saving Time)\">DST</abbr> din fusul orar):";
 $l['time_offset_desc'] = "Dac&#259; locui&#355;i &#238;ntr-o zon&#259; cu fus orar ce difera de cel setat de forum, &#238;l pute&#355;i selecta din lista de mai jos.";
 $l['dst_correction'] = "Corectare or&#259; de var&#259;:";
 $l['dst_correction_auto'] = "Detecteaz&#259; automat set&#259;rile DST";
@@ -112,7 +112,7 @@ $l['dst_correction_enabled'] = "&#206;ntodeauna folose&#351;te corec&#355;ia DST
 $l['dst_correction_disabled'] = "Nu folosi niciodat&#259; corec&#355;ia DST";
 $l['redirect_registered_coppa_activate'] = "V&#259; mul&#355;umim pentru &#238;nregistrare pe {1}, {2}. Contul vostru a fost creat cu succes, totu&#351;i pentru c&#259; de&#355;in&#259;torul contului are sub 13 ani, este necesar&#259; permisia parental&#259; &#238;nainte ca acest cont s&#259; fie folosit.<br /><br />Un p&#259;rinte sau un tutore legal trebuie s&#259; descarce, completeze &#351;i s&#259; ne trimit&#259; o copie a <a href=\"member.php?action=coppa_form\">COPPA Compliance &#38; formularului de permisiune</a>.<br /><br />Odat&#259; ce primim o copie complet&#259; a acestui formular, contul va fi activat.";
 $l['coppa_compliance'] = "COPPA Compliance";
-$l['coppa_desc'] = "Pentru a v&#259; &#238;nregistra pe acest forum, trebuie s&#259; verific&#259;m v&#226;rsta pentru a corespunde cu <a href=\"http://coppa.org/\" title=\"Children's Online Privacy Protection Act\" target=\"_blank\">COPPA</a>. V&#259; rug&#259;m introduce&#355;i data na&#351;terii mai jos.<br /><br />Dac&#259; sunte&#355;i sub v&#226;rsta de 13 ani, permisiile parentale trebuie s&#259; fie ob&#355;inute &#238;nainte de &#238;nregistrare. Un p&#259;rinte sau un tutore legal trebuie s&#259; descarce, completeze &#351;i s&#259; ne trimit&#259; o copie a <a href=\"member.php?action=coppa_form\" target=\"_blank\">COPPA Compliance &#38; Formularului de permisiune</a>.";
+$l['coppa_desc'] = "Pentru a v&#259; &#238;nregistra pe acest forum, trebuie s&#259; verific&#259;m v&#226;rsta pentru a corespunde cu <a href=\"http://coppa.org/\" title=\"Children's Online Privacy Protection Act\" target=\"_blank\" rel=\"noopener\">COPPA</a>. V&#259; rug&#259;m introduce&#355;i data na&#351;terii mai jos.<br /><br />Dac&#259; sunte&#355;i sub v&#226;rsta de 13 ani, permisiile parentale trebuie s&#259; fie ob&#355;inute &#238;nainte de &#238;nregistrare. Un p&#259;rinte sau un tutore legal trebuie s&#259; descarce, completeze &#351;i s&#259; ne trimit&#259; o copie a <a href=\"member.php?action=coppa_form\" target=\"_blank\" rel=\"noopener\">COPPA Compliance &#38; Formularului de permisiune</a>.";
 $l['hide_dob'] = "Po&#355;i s&#259; alegi s&#259; ascunzi data na&#351;terii &#351;i v&#226;rsta prin editarea profilului dup&#259; &#238;nregistrare.";
 $l['signature'] = "Semn&#259;tur&#259;:";
 $l['continue_registration'] = "Continu&#259; &#206;nregistrarea";
@@ -134,7 +134,7 @@ $l['phone_no'] = "Telefon #:";
 $l['coppa_parent_agreement'] = "&#206;n&#355;eleg c&#259; aceste informa&#355;ii pe care le-am furnizat sunt corecte, ca orice informa&#355;ie poate fi schimbat&#259; &#238;n viitor prin introducerea parolei &#351;i c&#259; acest cont de utilizator poate fi &#351;ters la cerere.";
 
 $l['coppa_agreement_1'] = "Utilizatorii sub 13 ani trebuie s&#259; primeasc&#259; permisiune de la p&#259;rin&#355;i sau tutorii legali pentru a se &#238;nregistra pe {1}.";
-$l['coppa_agreement_2'] = "Un p&#259;rinte sau un tutore legal trebuie s&#259; descarce, completeze &#351;i s&#259; ne trimit&#259; o copie a <a href=\"member.php?action=coppa_form\" target=\"_blank\">COPPA Compliance &#38; Formularului de permisiune</a> &#238;nainte de a fi acordat&#259; calitatea de membru.";
+$l['coppa_agreement_2'] = "Un p&#259;rinte sau un tutore legal trebuie s&#259; descarce, completeze &#351;i s&#259; ne trimit&#259; o copie a <a href=\"member.php?action=coppa_form\" target=\"_blank\" rel=\"noopener\">COPPA Compliance &#38; Formularului de permisiune</a> &#238;nainte de a fi acordat&#259; calitatea de membru.";
 $l['coppa_agreement_3'] = "Dac&#259; dore&#351;ti, po&#355;i s&#259; &#238;ncepi procesul de &#238;nregistrare acum, totu&#351;i contul va fi inaccesibil p&#226;n&#259; nu va fi primit formularul de mai sus.";
 
 $l['error_invalid_birthday'] = 'Ziua de na&#351;tere introdus&#259; este invalid&#259;. V&#259; rug&#259;m s&#259; introduce&#355;i una valid&#259;.';
@@ -223,6 +223,7 @@ $l['js_validator_no_security_question'] = "Trebuie s&#259; introduce&#355;i r&#2
 $l['js_validator_password_matches'] = "Parolele introduse trebuie s&#259; se potriveasc&#259;";
 $l['js_validator_password_complexity'] = "Verificare complexitate parol&#259;";
 $l['js_validator_password_length'] = "Parola ta trebuie s&#259; fie de {1} sau mai multe caractere lungime";
+$l['js_validator_bad_password_security'] = 'Parola introdus&#259; este similar&#259; cu numele de utilizator sau adresa de email. V&#259; rug&#259;m s&#259; introduce&#355;i o parol&#259; mai puternic&#259;.';
 $l['js_validator_not_empty'] = "Trebuie s&#259; selectezi sau s&#259; introduci o valoare pentru acest c&#226;mp";
 $l['js_validator_checking_username'] = "Se verific&#259; dac&#259; numele de utilizator este disponibil";
 $l['js_validator_username_length'] = "Numele de utilizatori trebuie s&#259; fie &#238;ntre {1} &#351;i {2} caractere lungime";

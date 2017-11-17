@@ -208,6 +208,8 @@ $l['error_cannot_have_both_types'] = "Nu pute&#355;i avea un grup la care se pot
 
 $l['success_group_created'] = "Noul grup a fost ad&#259;ugat.";
 $l['success_group_updated'] = "Grupul selectat a fost actualizat.";
+$l['success_group_created_duplicate_title'] = "Noul grup a fost ad&#259;ugat. V&#259; rug&#259;m s&#259; re&#355;ineti c&#259; exist&#259; multiple grupuri de utilizatori numite \"{1}\".";
+$l['success_group_updated_duplicate_title'] = "Grupul selectat a fost actualizat. V&#259; rug&#259;m s&#259; re&#355;ineti c&#259; exist&#259; multiple grupuri de utilizatori numite \"{1}\".";
 $l['success_group_deleted'] = "Grupul selectat a fost &#351;ters.";
 $l['success_groups_disporder_updated'] = "Ordinea de afi&#351;are a grupurilor a fost actualizat&#259;.";
 $l['success_join_request_approved'] = "Solicitarea se aderare selectat&#259; a fost aprobat&#259;. Utilizatorul a fost ad&#259;ugat acestui grup.";

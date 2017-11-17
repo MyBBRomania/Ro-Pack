@@ -57,8 +57,8 @@ $l['d7_document'] = "Pute&#355;i folosi MyCode, o versiune simplificat&#259; de 
 <p>[email=exemplu@exemplu.com?subject=spam]E-mail cu subiect[/email]<br />&#160;&#160;&#160;<a href=\"mailto:exemplu@exemplu.com?subject=spam\">E-mail cu subiect</a>
 <p><br />[quote]Textul &#238;n ghilimele va ap&#259;rea aici[/quote]<br />&#160;&#160;&#160;<quote>Textul &#238;n ghilimele va ap&#259;rea aici</quote>
 <p>[code]Text cu formatare conservat&#259;[/code]<br />&#160;&#160;&#160;<code>Text cu formatare conservat&#259;</code>
-<p><br />[img]http://www.php.net/images/php.gif[/img]<br />&#160;&#160;&#160;<img src=\"http://www.php.net/images/php.gif\">
-<p>[img=50x50]http://www.php.net/images/php.gif[/img]<br />&#160;&#160;&#160;<img src=\"http://www.php.net/images/php.gif\" width=\"50\" height=\"50\">
+<p><br />[img]https://secure.php.net/images/php.gif[/img]<br />&#160;&#160;&#160;<img src=\"http://www.php.net/images/php.gif\">
+<p>[img=50x50]https://secure.php.net/images/php.gif[/img]<br />&#160;&#160;&#160;<img src=\"http://www.php.net/images/php.gif\" width=\"50\" height=\"50\">
 <p><br />[color=red]Acest text este ro&#351;u[/color]<br />&#160;&#160;&#160;<font color=\"red\">Acest text este ro&#351;u</font>
 <p>[size=3]Acest text are m&#259;rimea 3[/size]<br />&#160;&#160;&#160;<font size=\"3\">Acest text are m&#259;rimea 3</font>
 <p>[font=Tahoma]Acest font este Tahoma[/font]<br />&#160;&#160;&#160;<font face=\"Tahoma\">Acest font este Tahoma</font>

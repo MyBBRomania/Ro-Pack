@@ -36,7 +36,7 @@ $l['latest_mybb_announcements'] = "Ultimele anun&#355;uri MyBB";
 $l['no_announcements'] = "Nu ave&#355;i niciun anun&#355; stocat. <a href=\"index.php?module=home&amp;action=version_check\">Verific&#259; pentru actualiz&#259;ri</a>.";
 $l['your_version'] = "Versiunea voastr&#259;";
 $l['latest_version'] = "Ultima versiune";
-$l['update_forum'] = "V&#259; rug&#259;m s&#259; actualiza&#355;i forumul pe ultima versiune de MyBB vizit&#226;nd <a href=\"http://www.mybb.com\" target=\"_blank\">site-ul web MyBB</a>.";
+$l['update_forum'] = "V&#259; rug&#259;m s&#259; actualiza&#355;i forumul pe ultima versiune de MyBB vizit&#226;nd <a href=\"http://www.mybb.com\" target=\"_blank\" rel=\"noopener\">site-ul web MyBB</a>.";
 $l['read_more'] = "Cite&#351;te mai mult";
 
 $l['success_up_to_date'] = "Felicit&#259;ri, rula&#355;i ultima versiune de MyBB.";
@@ -45,7 +45,7 @@ $l['error_out_of_date'] = "Copia voastr&#259; de MyBB este neactualizat&#259;.";
 $l['error_communication'] = "A ap&#259;rut o problem&#259; la comunicarea cu serverul MyBB. V&#259; rug&#259;m s&#259; &#238;ncerca&#355;i din nou &#238;n c&#226;teva minute.";
 $l['error_fetch_news'] = "MyBB nu a fost capabil s&#259; prelueze ultimele anun&#355;uri de pe site-ul MyBB.";
 
-$l['news_description'] = "Ultimele nout&#259;&#355;i de pe <a href=\"http://blog.mybb.com/\" target=\"_blank\">Blog-ul MyBB</a>.";
+$l['news_description'] = "Ultimele nout&#259;&#355;i de pe <a href=\"http://blog.mybb.com/\" target=\"_blank\" rel=\"noopener\">Blog-ul MyBB</a>.";
 
 $l['admin_notes_public'] = "Aceste note sunt publice tuturor administratorilor.";
 $l['admin_notes'] = "Note administratori";

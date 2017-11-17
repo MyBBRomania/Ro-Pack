@@ -15,7 +15,7 @@ $l['userdata_username_exists'] = 'Numele de utilizator introdus exist&#259; deja
 $l['userdata_invalid_password_length'] = 'Parola introdus&#259; este de lungime invalid&#259;. V&#259; rug&#259;m s&#259; introduce&#355;i o parol&#259; &#238;ntre {1} &#351;i {2} caractere.';
 $l['userdata_no_complex_characters'] = 'Parola introdus&#259; nu este suficient de complex&#259;. V&#259; rug&#259;m s&#259; introduce&#355;i o parol&#259; de cel pu&#355;in 8 caractere &#351;i care sa con&#355;in&#259; o liter&#259; mare de tipar, litere mici &#351;i un num&#259;r.';
 $l['userdata_passwords_dont_match'] = 'Parola introdus&#259; pentru confirmare nu se potrive&#351;te cu cea original&#259;. V&#259; rug&#259;m s&#259; confirma&#355;i corect parola.';
-$l['userdata_bad_password_security'] = 'Parola introdus&#259; este identic&#259; fie cu numele de utilizator sau adresa de e-mail. V&#259; rug&#259;m s&#259; introduce&#355;i o parol&#259; mai complex&#259;.';
+$l['userdata_bad_password_security'] = 'Parola introdus&#259; este asem&#259;n&#259;toare cu numele de utilizator sau adresa de e-mail. V&#259; rug&#259;m s&#259; introduce&#355;i o parol&#259; mai complex&#259;.';
 
 $l['userdata_missing_email'] = 'Nu ai introdus o adres&#259; de email. V&#259; rug&#259;m introduce&#355;i una.';
 $l['userdata_invalid_email_format'] = 'Adresa de email introdus&#259; este invalid&#259;. V&#259; rug&#259;m introduce&#355;i o adres&#259; de email valid&#259;.';

@@ -14,6 +14,7 @@ $l['prune_mod_logs_desc'] = "Aici po&#355;i elimina ac&#355;iunile &#238;nregist
 $l['no_modlogs'] = "Nu exist&#259; &#238;nregistr&#259;ri &#238;n jurnal care s&#259; respecte criteriile introduse.";
 
 $l['username'] = "Nume utilizator";
+$l['na_deleted'] = "N/A - A fost &#351;ters";
 $l['date'] = "Dat&#259;";
 $l['action'] = "Ac&#355;iune";
 $l['information'] = "Detalii";

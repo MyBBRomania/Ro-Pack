@@ -41,10 +41,11 @@ $l['report_time'] = "Raportat";
 $l['mark_read'] = "Marcheaz&#259; selectat ca &#351;i citit";
 $l['no_reports'] = "Acum nu sunt mesaje raportate necitite.";
 $l['no_logs'] = "Nicio ac&#355;iune a moderatorului nu este &#238;nregistrat&#259; momentan.";
-$l['error_noselected_reports'] = "Ne pare r&#259;u, dar nu a&#355;i selectat niciun mesaj raportat pentru a fi marcat ca &#351;i citit. Ori aceasta, ori mesajele selectate au fost deja marcate ca citite de alt utilizator.";
+$l['error_noselected_reports'] = "Ne pare r&#259;u, dar nu a&#355;i selectat niciun con&#355;inut raportat pentru a fi marcat ca &#351;i citit. Ori aceasta, ori mesajele selectate au fost deja marcate ca citite de alt utilizator.";
 $l['error_missing_ipaddress'] = "Ne pare r&#259;u, dar nu a&#355;i introdus nicio adres&#259; IP pentru a fi g&#259;sit&#259;.";
 $l['error_no_results'] = "Ne pare r&#259;u, nu s-a g&#259;sit niciun rezultat cu criteriul pe care l-ai selectat.";
-$l['redirect_reportsmarked'] = "Mesajele raportate selectate au fost marcate ca citite.";
+$l['redirect_reportsmarked'] = "Con&#355;inutul raportat selectat a fost marcat ca citit.";
+$l['redirect_allreportsmarked'] = "Tot con&#355;inutul raportat a fost marcat ca citit.";
 $l['redirect_modnotes'] = "Notele moderatorilor au fost actualizate.";
 
 $l['for'] = "Pentru";
@@ -61,6 +62,11 @@ $l['report_info_profile'] = "Profilul lui {1}";
 $l['report_info_reputation'] = "<a href=\"{1}\">Reputa&#355;ia</a> lui {2}";
 $l['report_info_rep_profile'] = "<br /><span class=\"smalltext\">Pe profilul lui {1}</span>";
 $l['report_info_lastreporter'] = "{1}<br />de {2}";
+
+$l['page_selected'] = "Toate cele <strong>{1}</strong> rapoarte necitite de pe aceast&#259; pagin&#259; au fost selectate.";
+$l['all_selected'] = "Toate cele <strong>{1}</strong> rapoarte necitite au fost selectate.";
+$l['select_all'] = "Selecta&#355;i toate cele <strong>{1}</strong> rapoarte necitite.";
+$l['clear_selection'] = "Sterge&#355;i Selec&#355;ia.";
 
 $l['moderator_notes'] = "Note Moderator";
 $l['notes_public_all'] = "Aceste note sunt publice pentru to&#355;i moderatorii.";

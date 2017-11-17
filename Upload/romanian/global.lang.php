@@ -132,8 +132,10 @@ $l['no_subscribe_notification'] = "Abona&#355;i-v&#259; f&#259;r&#259; a primi n
 $l['instant_email_subscribe'] = "&#206;nscrie&#355;i-v&#259; &#351;i primi&#355;i notific&#259;ri prin e-mail la r&#259;spunsuri noi";
 $l['instant_pm_subscribe'] = "&#206;nscrie&#355;i-v&#259; &#351;i primi&#355;i notific&#259;ri prin mesaje private la r&#259;spunsuri noi";
 
-$l['today'] = "<span title=\"{1}\">Ast&#259;zi</span>";
-$l['yesterday'] = "<span title=\"{1}\">Ieri</span>";
+$l['today_rel'] = "<span title=\"{1}\">Ast&#259;zi</span>";
+$l['yesterday_rel'] = "<span title=\"{1}\">Ieri</span>";
+$l['today'] = "Ast&#259;zi";
+$l['yesterday'] = "Ieri";
 $l['error'] = "Mesaj principal";
 
 $l['multipage_pages'] = "Pagini ({1}):";
@@ -568,6 +570,8 @@ $l['select2_searching'] = "Se caut&#259;…";
 
 $l['stopforumspam_error_decoding'] = 'A ap&#259;rut o eroare &#238;n procesul de decodare a datelor de la StopForumSpam.com.';
 $l['stopforumspam_error_retrieving'] = 'A ap&#259;rut o eroare la preluarea datelor de la StopForumSpam.com.';
+$l['stopforumspam_invalid_email'] = 'Adres&#259; de email invalid&#259; la folosirea API-ului StopForumSpam.com.';
+$l['stopforumspam_invalid_ip_address'] = 'Adres&#259; de IP invalid&#259; la folosirea API-ului StopForumSpam.com.';
 
 $l['sfs_error_username'] = 'nume de utilizator';
 $l['sfs_error_ip'] = 'IP';

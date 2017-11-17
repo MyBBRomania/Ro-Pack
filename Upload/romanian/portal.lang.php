@@ -27,7 +27,7 @@ $l['num_threads'] = "Subiectele forumului:";
 $l['num_posts'] = "Mesajele forumului:";
 $l['full_stats'] = "Toate statisticile";
 $l['welcome'] = "Bine ai venit, {1}";
-$l['guest'] = "Musafir";
+
 $l['guest_welcome_registration'] = "Trebuie s&#259; v&#259; <a href=\"{1}\">&#238;nregistra&#355;i</a> &#238;nainte s&#259; scrie&#355;i mesaje pe acest site.";
 $l['username'] = "Nume utilizator";
 $l['password'] = "Parol&#259;";

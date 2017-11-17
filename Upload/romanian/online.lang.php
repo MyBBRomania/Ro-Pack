@@ -78,7 +78,7 @@ $l['viewing_reputation_report2'] = "Vizualiz&#226;nd reputa&#355;ia";
 $l['member_resendactivation'] = "Retrimi&#355;&#226;nd email pentru activare cont";
 $l['member_lostpw'] = "Recuper&#226;nd <a href=\"member.php?action=lostpw\">parol&#259; pierdut&#259;</a>";
 $l['sending_thread'] = "Trimi&#355;&#226;nd un subiect unui prieten";
-$l['guest'] = "Musafir";
+
 $l['page'] = "Pagin&#259;";
 $l['users_online'] = "Cine este conectat";
 $l['on_username'] = "Nume utilizator";

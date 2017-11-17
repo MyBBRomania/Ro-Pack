@@ -71,5 +71,5 @@ $l['success_task_disabled'] = "Sarcina selectat&#259; a fost dezactivat&#259;.";
 $l['success_task_run'] = "Sarcina selectat&#259; a rulat.";
 
 $l['confirm_task_deletion'] = "E&#351;ti sigur c&#259; dore&#351;ti s&#259; &#351;tergi sarcina selectat&#259;?";
-$l['confirm_task_enable'] = "<strong>Aten&#355;ie:</strong> E&#351;ti pe cale s&#259; activezi o sarcin&#259; care ar trebui rulat&#259; doar via CRON (Verific&#259; <a href=\"http://wiki.mybb.com/\" target=\"_blank\">MyBB Wiki</a> pentru informa&#355;ii suplimentare). Continui?";
+$l['confirm_task_enable'] = "<strong>Aten&#355;ie:</strong> E&#351;ti pe cale s&#259; activezi o sarcin&#259; care ar trebui rulat&#259; doar via CRON (Verific&#259; <a href=\"http://wiki.mybb.com/\" target=\"_blank\" rel=\"noopener\">MyBB Wiki</a> pentru informa&#355;ii suplimentare). Continui?";
 $l['no_tasks'] = "Momentan nu exist&#259; nicio sarcin&#259; pe forum.";
