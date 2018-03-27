@@ -3,10 +3,12 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2014 MyBB Romania, Toate drepturile rezervate.
  *
- */
+ */
+
 $l['delete_poll'] = "&#350;terge chestionar";
 $l['close_thread'] = "&#206;nchide subiect";
-$l['stick_thread'] = "Lipe&#351;te subiect";
+$l['stick_thread'] = "Lipe&#351;te subiect";
+
 $l['author'] = "Autor";
 $l['message'] = "Mesaj";
 $l['threaded'] = "Mod threaded";
@@ -46,6 +48,7 @@ $l['you_voted'] = "* A&#355;i votat pentru acest element.";
 $l['poll_closed'] = "Acest chestionar este &#238;nchis.";
 $l['poll_closes'] = "Acest chestionar se va &#238;nchide &#238;n: {1}";
 $l['already_voted'] = "A&#355;i votat deja &#238;n acest chestionar.";
+$l['no_voting_permission'] = "Nu ave&#355;i permisiunea de a vota &#238;n acest chestionar.";
 $l['undo_vote'] = "Anulare vot";
 $l['quick_reply'] = "R&#259;spuns rapid";
 $l['message_note'] = "Scrie&#355;i r&#259;spunsul la acest mesaj aici.";
@@ -91,7 +94,8 @@ $l['quickreply_multiquote_now'] = "Citeaz&#259; aceste mesaje acum";
 $l['or'] ="sau";
 $l['quickreply_multiquote_deselect'] = "deselecteaz&#259;-le";
 $l['search_thread'] = "Caut&#259; &#238;n subiect";
-$l['enter_keywords'] = "Introduce&#355;i cuvinte cheie";$l['view_thread_notes'] = "Note subiect";
+$l['enter_keywords'] = "Introduce&#355;i cuvinte cheie";
+$l['view_thread_notes'] = "Note subiect";
 $l['view_all_notes'] = "Vezi toate notele";
 
 $l['save_changes'] = 'Salveaz&#259; schimb&#259;ri';
