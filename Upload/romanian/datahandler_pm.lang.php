@@ -9,6 +9,7 @@ $l['pmdata_too_long_subject'] = 'Subiectul mesajului privat este prea lung. Intr
 $l['pmdata_code_no_subject'] = '[f&#259;r&#259; subiect]';
 $l['pmdata_missing_subject'] = 'Nu ai introdus niciun subiect pentru mesajul t&#259;u. Te rug&#259;m s&#259; introduci un subiect.';
 $l['pmdata_missing_message'] = 'Nu ai scris niciun mesaj pentru a fi trimis. Te rug&#259;m s&#259; scrii unul.';
+$l['pmdata_message_too_long'] = 'Mesaejul este prea lung. V&#259; rug&#259;m s&#259; introduce&#355;i un mesaj mai scurt dec&#226;t {1} caractere (momentan {2}).';
 $l['pmdata_invalid_recipients'] = "Unul sau mai mul&#355;i dintre destinatarii specifica&#355;i nu sunt nume de utililizatori &#238;nregistrate. Destinatari necunoscu&#355;i: {1}";
 $l['pmdata_no_recipients'] = "Nu ai introdus niciun destinatar pentru acest mesaj. Trebuie s&#259; introduci cel pu&#355;in un nume de utilizator &#238;n c&#226;mpul 'to'.";
 $l['pmdata_too_many_recipients'] = "Este permis s&#259; trimi&#355;i mesaje numai c&#259;tre {1} utilizatori &#238;n acela&#351;i timp.";

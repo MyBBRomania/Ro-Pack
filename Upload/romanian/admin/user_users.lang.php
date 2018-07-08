@@ -122,7 +122,7 @@ $l['success_view_deleted'] = "Afi&#351;area personalizat&#259; a fost &#351;tear
 
 $l['confirm_view_deletion'] = "E&#351;ti sigur c&#259; vrei s&#259; &#351;tergi afi&#351;area selectat&#259;";
 
-$l['warning_coppa_user'] = "<p class=\"alert\"><strong>Aten&#355;ie: </strong> Acest utilizator a&#351;teapt&#259; validarea COPPA. <a href=\"index.php?module=user-users&amp;action=activate_user&amp;uid={1}\">Activeaz&#259; Contul</a></p>";
+$l['warning_coppa_user'] = "<p class=\"alert\"><strong>Aten&#355;ie: </strong> Acest utilizator a&#351;teapt&#259; validarea COPPA. <a href=\"index.php?module=user-users&amp;action=activate_user&amp;uid={1}&amp;my_post_key={2}\">Activeaz&#259; Contul</a></p>";
 
 $l['required_profile_info'] = "Informa&#355;ii Profil Necesare";
 $l['password'] = "Parol&#259;";
@@ -159,7 +159,6 @@ $l['custom_user_title'] = "Titlu Utilizator Personalizat";
 $l['custom_user_title_desc'] = "L&#259;sat necompletat, va fi utilizat cel implicit grupului";
 $l['website'] = "Site";
 $l['icq_number'] = "Num&#259;r ICQ";
-$l['aim_handle'] = "Nume Utilizator AIM";
 $l['yahoo_messanger_handle'] = "ID Yahoo! Messenger";
 $l['skype_handle'] = "ID Skype";
 $l['google_handle'] = "ID Google Talk";
@@ -188,8 +187,9 @@ $l['buddy_requests_pm'] = "Prime&#351;te notificare prin MP pentru cereri noi de
 $l['buddy_requests_auto'] = "Accept&#259; automat cererile de prietenie (dac&#259; casu&#355;a de mai sus e bifat&#259;, va fi trimis un MP pentru a v&#259; informa despre noua prietenie)";
 $l['default_thread_subscription_mode'] = "Modalitatea standard de abonare la un subiect:";
 $l['do_not_subscribe'] = "Nu abona";
-$l['no_email_notification'] = "Far&#259; notificare &#238;n E-mail";
+$l['no_notification'] = "Far&#259; notificare &#238;n E-mail";
 $l['instant_email_notification'] = "Notificare E-mail instant&#259;";
+$l['instant_pm_notification'] = "Notificare MP instant&#259;";
 $l['messaging_and_notification'] = "Mesagerie &#351;i Notificare";
 $l['use_default'] = "Standard";
 $l['date_format'] = "Format Dat&#259;";
@@ -342,7 +342,6 @@ $l['email_address_contains'] = "Adresa E-mail con&#355;ine";
 $l['is_member_of_groups'] = "Este membru &#238;n cel pu&#355;in unul din grupurile";
 $l['website_contains'] = "Adresa (URL) a Website-ului con&#355;ine";
 $l['icq_number_contains'] = "Num&#259;rul ICQ con&#355;ine";
-$l['aim_handle_contains'] = "Numele de Utilizator AIM con&#355;ine";
 $l['yahoo_contains'] = "ID-ul Yahoo! Messenger con&#355;ine";
 $l['skype_contains'] = "ID-ul de Skype con&#355;ine";
 $l['google_contains'] = "ID-ul de Google Talk con&#355;ine";

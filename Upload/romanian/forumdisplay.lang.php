@@ -3,7 +3,8 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2014 MyBB Romania, Toate drepturile rezervate.
  *
- */
+ */
+
 $l['post_thread'] = "Posteaz&#259; Subiect";
 $l['moderated_by'] = "Moderat De:";
 $l['nothreads'] = "Ne pare r&#259;u, dar acum nu sunt subiecte &#238;n acest forum cu limitele de dat&#259; &#351;i timp specificate.";
@@ -46,7 +47,7 @@ $l['new_hot_thread'] = "Subiect Fierbinte (Nou)";
 $l['posts_by_you'] = "Con&#355;ine Mesaje de-ale Tale";
 $l['no_new_thread'] = "F&#259;r&#259; Mesaje Noi";
 $l['hot_thread'] = "Subiect Fierbinte (Vechi)";
-$l['locked_thread'] = "Subiect &#206;nchis";
+$l['closed_thread'] = "Subiect &#206;nchis";
 $l['goto_first_unread'] = "Du-te la primul mesaj necitit";
 $l['pages'] = "Pagini:";
 $l['pages_last'] = "ultima";
@@ -79,7 +80,7 @@ $l['icon_dot'] = "Con&#355;ine mesaje de-ale tale. "; // The spaces for the icon
 $l['icon_no_new'] = "F&#259;r&#259; mesaje noi.";
 $l['icon_new'] = "Mesaje noi.";
 $l['icon_hot'] = " Mesaj fierbinte.";
-$l['icon_lock'] = " Mesaj &#238;nchis.";
+$l['icon_close'] = " Mesaj &#238;nchis.";
 $l['attachment_count'] = "Acest subiect con&#355;ine un ata&#351;ament.";
 $l['attachment_count_multiple'] = "Acest subiect con&#355;ine {1} ata&#351;amente.";
 $l['rss_discovery_forum'] = "Ultimele Subiecte &#238;n {1}";
@@ -96,4 +97,5 @@ $l['clear_selection'] = "Deselecteaz&#259;.";
 $l['deleted_thread'] = "Subiect &#350;ters";
 
 $l['error_containsnoforums'] = "Ne pare r&#259;u dar forumul pe care &#238;l vizitezi acum nu con&#355;ine niciun subforum.";
-$l['inline_edit_description'] = '(Apasă şi ţine apăsat clic pentru a edita)';
+
+$l['inline_edit_description'] = '(Apas&#259; &#351;i &#355;ine ap&#259;sat clic pentru a edita)';

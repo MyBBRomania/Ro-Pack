@@ -25,7 +25,7 @@ $l['report_reason_other'] = "Alt motiv";
 $l['success_report_voted'] = "V&#259; mul&#355;umim pentru raportare.<br />Un membru al echipei forumului va verifica raportul dumneavoastr&#259; &#238;n cur&#2&#226;";
 
 $l['error_report_length'] = "V&#259; rug&#259;m s&#259; oferi&#355;i o descriere detaliat&#259; pentru raportul vostru.";
-$l['error_invalid_report'] = "Acest con&#355;inut fie nu exist&#259;, fie nu poate fi raportat.";
+$l['error_invalid_report'] = "Acest {1} fie nu exist&#259;, fie nu poate fi raportat.";
 $l['error_invalid_report_reason'] = "Motivul selectat este invalid.";
 $l['error_comment_required'] = "Este necesar un comentariu adi&#355;ional pentru motivul selectat.";
 $l['error_report_duplicate'] = "Acest con&#355;inut a fost deja raportat de un alt membru.<br />Pute&#355;i de asemenea s&#259;-l raporta&#355;i mai jos.";

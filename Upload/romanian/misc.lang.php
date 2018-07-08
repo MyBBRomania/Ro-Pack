@@ -9,21 +9,16 @@ $l['nav_helpdocs'] = "Documente de ajutor";
 $l['nav_smilies'] = "List&#259; emoticonuri";
 $l['nav_syndication'] = "Ultimele subiecte sindicate (RSS)";
 
-$l['aol_im'] = "AOL IM";
 $l['skype'] = "Skype";
 $l['yahoo_im'] = "Yahoo IM";
 $l['skype_center'] = "Centrul Skype";
 $l['chat_on_skype'] = "Discuta cu {1} pe Skype";
 $l['call_on_skype'] = "Suna-l pe {1} pe Skype";
 $l['yahoo_center'] = "Yahoo! Center";
-$l['aim_center'] = "AOL IM Center";
 
-$l['download_aim'] = "Descarc&#259; AIM";
-$l['aim_remote'] = "AIM La distan&#355;&#259;";
 $l['send_me_instant'] = "Trimte-mi un Mesaj Instant";
 $l['add_me_buddy_list'] = "Adaug&#259;-m&#259; la Lista de Prieteni";
 $l['add_remote_to_page'] = "Adaug&#259; La Distan&#355;&#259; la pagina ta";
-$l['download_aol_im'] = "Descarc&#259; AOL Instant Messenger";
 
 $l['buddy_list'] = "List&#259; prieteni";
 $l['online'] = "Online";

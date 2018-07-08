@@ -16,6 +16,8 @@ $l['bad_word_desc'] = "Introdu cuv&#226;ntul pe care dore&#351;ti s&#259; &#238;
 $l['bad_word_max'] = "Un cuv&#226;nt de tip filtru nu poate avea mai mult de 100 caractere.";
 $l['replacement'] = "&#206;nlocuire";
 $l['replacement_desc'] = "Introduce&#355;i &#351;irul care va &#238;nlocui cuv&#226;ntul filtrat (Dac&#259; este gol acest c&#226;mp atunci se va afi&#351;a un asterix)";
+$l['regex'] = "Expresie Regular&#259;";
+$l['regex_desc'] = "Trateaz&#259; c&#226;mpul \"Cuv&#226;nt\" ca o expresie regular&#259;.";
 $l['replacement_word_max'] = "Un cuv&#226;nt de tip &#238;nlocuire nu poate avea mai mult de 100 caractere.";
 $l['error_replacement_word_invalid'] = "Cuv&#226;ntul de &#238;nlocuire nu poate fi identic cu cel al filtrului.";
 

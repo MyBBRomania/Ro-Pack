@@ -188,6 +188,7 @@ $l['error_missing_stylesheet_name'] = "V&#259; rug&#259;m s&#259; introduce&#355
 $l['error_missing_stylesheet_extension'] = "Aceast&#259; foaie de stil trebuie s&#259; se termine cu extensia corect&#259; a fi&#351;ierului, de exemplu, {1}<em>.css</em>";
 $l['error_invalid_parent_theme'] = "Tema-p&#259;rinte selectat&#259; nu exist&#259;. V&#259; rug&#259;m s&#259; selecta&#355;i o tem&#259;-p&#259;rinte valid&#259;.";
 $l['error_invalid_templateset'] = "Setul de &#351;abloane selectat nu exist&#259;. V&#259; rug&#259;m s&#259; selecta&#355;i un set de &#351;abloane valid.";
+$l['error_invalid_color'] = "Setul de culori definit \"{1}\" fie are caractere invalide, fie nu urmeaz&#259; formatul prescris. Doar caractere alfanumerice sunt permise pentru denumire separate de '='.";
 $l['error_invalid_editortheme'] = "Tema editorului selectat&#259; nu exist&#259;. V&#259; rug&#259;m s&#259; selecta&#355;i o tem&#259; pentru editor valid&#259;.";
 $l['error_inheriting_stylesheets'] = "Nu pute&#355;i &#351;terge aceast&#259; tem&#259; deoarece exist&#259; alte teme care mo&#351;tenesc foile de stil de la aceasta.";
 $l['error_cannot_parse'] = "MyBB nu poate analiza aceast&#259; foaie de stil pentru editorul simplu. Poate fi editat&#259; doar &#238;n modul avansat.";

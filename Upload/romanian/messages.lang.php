@@ -272,7 +272,7 @@ Echipa {4}
 Informatii pentru dezactivarea notificarii:
 
 Daca nu doriti sa mai primiti notificari de subiecte noi, vizitati:
-{7}/usercp2.php?action=removesubscription&type=forum&fid={9}&my_post_key={10}
+{7}/usercp.php?action=removesubscription&type=forum&fid={9}&my_post_key={10}
 
 ------------------------------------------";
 
@@ -348,7 +348,7 @@ Echipa {3}
 Informatii pentru dezactivarea notificarii:
 
 Daca nu doriti sa mai primiti notificari de subiecte noi, vizitati adresa:
-{6}/usercp2.php?action=removesubscription&tid={8}&key={9}&my_post_key={10}
+{6}/usercp.php?action=removesubscription&tid={8}&key={9}&my_post_key={10}
 
 ------------------------------------------";
 $l['email_reachedpmquota'] = "{1},
@@ -493,7 +493,7 @@ S-ar putea sa mai fie si alte raspunsuri la acel subiect, insa nu veti primi not
 Informatii pentru dezabonare:
 
 Daca nu mai doriti sa primiti notificari pentru acest subiect, vizitati urmatorul URL prin browser:
-[url]{5}/usercp2.php?action=removesubscription&tid={7}&key={8}&my_post_key={9}[/url]
+[url]{5}/usercp.php?action=removesubscription&tid={7}&key={8}&my_post_key={9}[/url]
 
 ------------------------------------------";
 

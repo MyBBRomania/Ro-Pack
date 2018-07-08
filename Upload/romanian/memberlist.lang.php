@@ -39,7 +39,6 @@ $l['search_criteria'] = "Criteriul de c&#259;utare";
 $l['begins_with'] = "&#238;ncepe cu";
 $l['username_contains'] = "con&#355;ine";
 $l['search_website'] = "Pagina web";
-$l['search_aim'] = "Nume AIM";
 $l['search_skype'] = "Adresa Skype";
 $l['search_google'] = "Adresa Google Talk";
 $l['search_yahoo'] = "ID Yahoo! Messenger";

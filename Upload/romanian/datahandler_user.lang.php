@@ -33,6 +33,7 @@ $l['userdata_invalid_birthday_privacy'] = 'V&#259; urg&#259;m s&#259; alege&#355
 $l['userdata_invalid_referrer'] = 'Persoana de referin&#355;&#259; introdus&#259; nu exist&#259;. V&#259; rug&#259;m introduce&#355;i o persoan&#259; de referin&#355;&#259; existent&#259; sau lasa&#355;i c&#226;mpul liber.';
 $l['userdata_invalid_language'] = 'Limba selectat&#259; nu exist&#259;. V&#259; rug&#259;m selecta&#355;i una dintre limbile existente.';
 $l['userdata_invalid_style'] = 'Stilul selectat este invalid. V&#259; rug&#259;m s&#259; alege&#355;i un stil valid.';
+$l['userdata_away_too_long'] = 'Motivul Plec&#259;rii este prea lung. Maxim 200 de caractere sunt permise pentru acest c&#226;mp. V&#259; rug&#259;m s&#259; sterge&#355;i {1} caracter(e) din acest c&#226;mp.';
 $l['userdata_missing_returndate'] = 'Datei de &#238;ntoarcere specificat&#259; &#238;i lipse&#351;te unul sau mai multe c&#226;mpuri. V&#259; rug&#259;m s&#259; v&#259; asigura&#355;i c&#259; a&#355;i complectat c&#226;mpurile zi, luna &#351;i an.';
 $l['userdata_missing_required_profile_field'] = 'Nu ai introdus nicio op&#355;iune pentru c&#226;mpul "{1}". V&#259; rug&#259;m completa&#355;i sau selecta&#355;i o valoare pentru acest c&#226;mp.';
 $l['userdata_bad_profile_field_value'] = 'Nu a&#355;i introdus o valoare pentru c&#226;mpul "{1}". V&#259; rug&#259;m s&#259; introduce&#355;i o valoare valid&#259; &#238;nainte de a continua.';

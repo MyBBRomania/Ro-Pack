@@ -133,7 +133,6 @@ $l['profile_optional'] = "C&#226;mpuri op&#355;ionale";
 $l['website_url'] = "URL site:";
 $l['birthdate'] = "Data Na&#351;terii:";
 $l['icq_number'] = "Num&#259;r ICQ:";
-$l['aim_screenname'] = "Nume AIM:";
 $l['yahoo_id'] = "Yahoo ID:";
 $l['skype_id'] = "Skype ID:";
 $l['google_id'] = "Google Talk ID:";

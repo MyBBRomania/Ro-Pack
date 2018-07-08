@@ -58,7 +58,7 @@ $l['homepage'] = "Pagina web:";
 $l['pm'] = "Mesaj Privat:";
 $l['send_pm'] = "Trimite lui {1} un mesaj privat.";
 $l['icq_number'] = "Num&#259;r ICQ:";
-$l['aim_screenname'] = "Nume ecran AIM:";
+
 $l['yahoo_id'] = "ID Yahoo:";
 $l['skype_id'] = "ID Skype:";
 $l['google_id'] = "ID Google Talk:";
@@ -113,6 +113,7 @@ $l['dst_correction_disabled'] = "Nu folosi niciodat&#259; corec&#355;ia DST";
 $l['redirect_registered_coppa_activate'] = "V&#259; mul&#355;umim pentru &#238;nregistrare pe {1}, {2}. Contul vostru a fost creat cu succes, totu&#351;i pentru c&#259; de&#355;in&#259;torul contului are sub 13 ani, este necesar&#259; permisia parental&#259; &#238;nainte ca acest cont s&#259; fie folosit.<br /><br />Un p&#259;rinte sau un tutore legal trebuie s&#259; descarce, completeze &#351;i s&#259; ne trimit&#259; o copie a <a href=\"member.php?action=coppa_form\">COPPA Compliance &#38; formularului de permisiune</a>.<br /><br />Odat&#259; ce primim o copie complet&#259; a acestui formular, contul va fi activat.";
 $l['coppa_compliance'] = "COPPA Compliance";
 $l['coppa_desc'] = "Pentru a v&#259; &#238;nregistra pe acest forum, trebuie s&#259; verific&#259;m v&#226;rsta pentru a corespunde cu <a href=\"http://coppa.org/\" title=\"Children's Online Privacy Protection Act\" target=\"_blank\" rel=\"noopener\">COPPA</a>. V&#259; rug&#259;m introduce&#355;i data na&#351;terii mai jos.<br /><br />Dac&#259; sunte&#355;i sub v&#226;rsta de 13 ani, permisiile parentale trebuie s&#259; fie ob&#355;inute &#238;nainte de &#238;nregistrare. Un p&#259;rinte sau un tutore legal trebuie s&#259; descarce, completeze &#351;i s&#259; ne trimit&#259; o copie a <a href=\"member.php?action=coppa_form\" target=\"_blank\" rel=\"noopener\">COPPA Compliance &#38; Formularului de permisiune</a>.";
+$l['coppa_desc_for_deny'] = "Pentru a v&#259; &#238;nregistra pe acest forum, trebuie s&#259; verific&#259;m v&#226;rsta pentru a corespunde cu <a href=\"http://coppa.org/\" title=\"Children's Online Privacy Protection Act\" target=\"_blank\" rel=\"noopener\">COPPA</a>. V&#259; rug&#259;m introduce&#355;i data na&#351;terii mai jos.";
 $l['hide_dob'] = "Po&#355;i s&#259; alegi s&#259; ascunzi data na&#351;terii &#351;i v&#226;rsta prin editarea profilului dup&#259; &#238;nregistrare.";
 $l['signature'] = "Semn&#259;tur&#259;:";
 $l['continue_registration'] = "Continu&#259; &#206;nregistrarea";

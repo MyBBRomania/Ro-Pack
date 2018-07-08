@@ -8,7 +8,7 @@
 $l['boardstats'] = "Statistici Forum";
 $l['new_posts'] = "Forumul con&#355;ine mesaje noi";
 $l['no_new_posts'] = "Forumul nu con&#355;ine mesaje noi";
-$l['forum_locked'] = "Forumul este &#238;nchis";
+$l['forum_closed'] = "Forumul este &#238;nchis";
 $l['forum_unapproved_posts_count'] = "Acum sunt {1} mesaje neaprobate &#238;n acest forum.";
 $l['forum_unapproved_post_count'] = "Acum este un mesaj neaprobat &#238;n acest forum.";
 $l['forum_unapproved_threads_count'] = "Acum sunt {1} subiecte neaprobate &#238;n acest forum.";

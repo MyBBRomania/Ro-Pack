@@ -13,13 +13,14 @@ $l['lastvisit'] = "Ultima Vizit&#259;";
 $l['email'] = "E-mail";
 $l['pm'] = "MP";
 $l['mod_forums'] = "Forum(uri)";
+$l['mod_groups'] = "Grup(uri)";
 $l['online'] = "Online";
 $l['offline'] = "Offline";
 $l['away'] = "Plecat";
 
-$l['group_leaders'] = "Conduc&#259;tor(i)";
+$l['group_leaders'] = "Lider(i) de grup";
 $l['group_members'] = "Membru(ii)";
 
 $l['no_members'] = "Nu sunt membri &#238;n acest grup";
-
+$l['showteam_disabled'] = "Facilitatea de afi&#351;are a echipei forumului a fost dezactivat&#259; de c&#259;tre Administrator.";
 $l['error_noteamstoshow'] = "Nu exist&#259; personal de afi&#351;at.";
